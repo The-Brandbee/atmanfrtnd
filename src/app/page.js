@@ -119,7 +119,7 @@ export default function Home() {
                 <div className="digital_partner_col_box">
                     <h3 className="ai_powered_headeing">Meet Your AI-Powered</h3>     
                     <h3 className="ai_powered_headeing2"> Digital Partners!</h3>
-                    <p className="ai_powered_text">Our AI-driven avatars are more than just virtual tools; they are dynamic, high-performance assets that seamlessly integrate into your operations. Capable of handling complex tasks, scaling effortlessly, and adapting to your needs, they unlock new business potential and redefine whats possible. Designed for growth, these avatars push the limits of innovation and deliver unparalleled results.</p>
+                    <p className="ai_powered_text">Our AI-driven avatars are more than just virtual tools they are dynamic, high-performance assets that seamlessly integrate into your operations. Capable of handling complex tasks, scaling effortlessly, and adapting to your needs, they unlock new business potential and redefine whats possible. Designed for growth, these avatars push the limits of innovation and deliver unparalleled results.</p>
                 </div>
             </div>
         </div>
@@ -128,7 +128,7 @@ export default function Home() {
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="try_box">
                     <h4>Try Our 6 Digital Humans</h4>
-                    <p>Explore the full potential of Atmans digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations, providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
+                    <p>Explore the full potential of Atmans digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
                         <button className="learn_more_btn ">Request a Demo</button>
                 </div>
             </div>
@@ -176,7 +176,7 @@ export default function Home() {
                     
                     <p className="sleep_paragraph">Atman s digital humans provide scalable, intelligent solutions that align with your business needs. Here s how they can optimize your operations and drive measurable results:</p>
                 </div>
-            </div>
+            </div>   
         </div>
         <div className="row">
             <div className="col-lg-9 col-md-9 col-sm-12">
