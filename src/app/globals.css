@@ -71,7 +71,7 @@ p{
 }
 .nav_col {
   display: flex;
-
+  /*justify-content: end;*/
 }
 .nav_col2 {
   display: flex;
@@ -85,7 +85,7 @@ p{
   color: white;
   font-weight: 400;
 }
-.ai_text{
+.ai_text{ 
     color: #3399ff;
 }
 .explore_content{
@@ -96,7 +96,7 @@ p{
 }
 
 .explore_second_col{
-
+    align-items: end;
     display: flex;
 }
 .digital_sec{

@@ -8,7 +8,7 @@ import Logo from "../img/logo_header.svg";
 function IndexPage() {
   return (
     <>
-  <section className="header">
+  <section className="header"> 
       <div className="container">
         <div className="row header-row-cent">
 

@@ -59,15 +59,15 @@ function IndexPage() {
             </div>
             <div className="col-lg-8 col-md-8 col-sm-12">
                 <div className="links-box">
-                    <div className="row">
+                    <div className="row">  
                         <div className="col-lg-4 col-md-4 col-sm-6 col-6">
-                            <h6 className="quick_head">USE-CASES</h6>
+                            <h6 className="quick_head">USE-CASES</h6>    
                              <ul className="">
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Training & Development</a>
+                                    <Link href="#" className="foot-links">Training  Development</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Sales & Marketing</a>
+                                    <Link href="#" className="foot-links">Sales  Marketing</Link>
                                 </li>
                              </ul>
                         </div>
@@ -75,10 +75,10 @@ function IndexPage() {
                             <h6 className="quick_head">FEATURES</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">AI Avatars</a>
+                                    <Link href="#" className="foot-links">AI Avatars</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Text-to-Video</a>
+                                    <Link href="#" className="foot-links">Text-to-Video</Link>
                                 </li>
                              </ul>
                         </div>
@@ -86,16 +86,16 @@ function IndexPage() {
                             <h6 className="quick_head">COMPANY</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">About Us</a>
+                                    <Link href="#" className="foot-links">About Us</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Contact Us</a>
+                                    <Link href="#" className="foot-links">Contact Us</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Affiliate</a>
+                                    <Link href="#" className="foot-links">Affiliate</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <a href="#" class="foot-links">Partners</a>
+                                    <Link href="#" className="foot-links">Partners</Link>
                                 </li>
                              </ul>
                         </div>
