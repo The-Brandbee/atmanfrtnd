@@ -71,7 +71,7 @@ p{
 }
 .nav_col {
   display: flex;
-  justify-content: end;
+  /*justify-content: end;*/
 }
 .nav_col2 {
   display: flex;
@@ -96,7 +96,7 @@ p{
 }
 
 .explore_second_col{
-    align-items: end;
+    /*align-items: end;*/ 
     display: flex;
 }
 .digital_sec{
