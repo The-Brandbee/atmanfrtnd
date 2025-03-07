@@ -13,6 +13,9 @@ body{
 p{
     font-family: PlusJakartaSans-Regular;   
 }
+p{
+    font-size: 14px;
+}
 .links-box ul{
     padding-left: 0px;
 }
@@ -384,7 +387,6 @@ ul{
     }
     .humax_box {
         margin: 10px 0px;
-       
     }
     .why_sec {
         padding: 15px 0px;
@@ -403,12 +405,714 @@ ul{
         padding-bottom: 10px;
     }
 
-  
-
-
 
   }
 
+/* CSS 3 MArch 2025 */
+.header-inner{
+    background: #00000000;
+    padding: 10px;
+    position: absolute;
+    width: 100%;
+}
+.header-inner .header {
+    background: transparent;
+}
+.three_about_sec{
+    padding: 90px 0px;
+    background-image: url('../app/img/shutterstock_1283026954-[Converted].png');
+    background-size: 100% 100%;
+    padding-top: 180px;
+}
+.pioneeringbox{
+    margin-top: 20%;
+}
+.three_abot_atman_box h1 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.three_abot_atman_box h3 {
+    color: #3399FF;
+    font-size: 25px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.three_abot_atman_box p{
+    color: white;
+    font-size: 14px;
+    padding-right: 55px;
+}
+.what_set_atman_sec{
+    padding:80px 0px;
+    background: transparent linear-gradient(168deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    position: relative;
+}
+.what_set_box h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 400;
+}
+.what_set_box span{
+    color:#3399FF;
+}
+.atman_digital_para_box p{
+    color: white;
+    font-size: 14px;
+}
+.atman_digital_para_row{
+    display: flex;
+    align-items: end;
+}
+.what_atmansets_row{
+    margin-bottom: 30px;
+}
+.pioneeringbox h3 {
+    color: white;
+    font-size: 33px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.pioneeringbox span {
+    color: #3399FF;
+}
+.pioneeringbox p {
+    color: white;
+    font-size: 13px;
+    padding-right: 70px;
+}
+.what_set_atman_sec::before {
+    content: "";
+    position: absolute;
+    top: 10%;
+    left: 0;
+    width: 2%;
+    height: 80%;
+    background: #333399 0% 0% no-repeat padding-box;
+    opacity: 0.56;
+    filter: blur(50px);
+}
+
+.what_set_atman_sec::after {
+    content: "";
+    position: absolute;
+    top: 10%;
+    right: 0;
+    width: 2%;
+    height: 80%;
+    background: #333399 0% 0% no-repeat padding-box;
+    opacity: 0.76;
+    filter: blur(50px);
+}
+.three_carrer_sec{
+    padding: 60px 0px;
+    background-image: url('../app/img/Group-43.png');
+    background-size: 100% 100%; 
+}
+.carrer_head_box h3 {
+    color: white;
+    font-weight: 300;
+    margin-bottom:25px
+}
+.join_the_future_box h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 50px;
+    margin-bottom: 35px;
+}
+.join_para_box {
+    padding-left: 30px;
+    padding-right: 32px;
+}
+.join_para_box p{
+ color: white;
+ font-size: 14px;
+ margin-bottom: 30px;
+}
+
+.request_btn2 {
+    border: 0px;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-size:13px;
+    background: radial-gradient(closest-side at 50% 2%, #3399ff 0%, #333399 100%);
+  }
+.join_the_future_box span{
+    color: #3399FF;
+}
+.carrer_accelerated_box{
+    padding: 15px 20px;
+}
+.carrer_accelerated_box h6 {
+    color: white;
+    font-weight: 600;
+    padding-bottom: 40px;
+    position: relative;
+}
+.carrer_accelerated_box h6::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 35%;
+    height: 6px;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    bottom: 0px;
+}
+.carrer_accelerated_box p{
+    color: white;
+    font-size: 14px;
+}
+.what_can_atman_sec{
+    padding:80px 0px;
+    /* position: relative; */
+    padding-top: 120px;
+    background: transparent linear-gradient(178deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.what_can_atman_box h1{
+    color: white;
+    font-size: 55px;
+    font-weight: 400;
+}
+.what_can_atman_box span{
+    color: #3399FF;
+}
+.what_can_atman_para p{
+    color: white;
+    font-size: 14px;
+}
+.what_can_atman_para_col{
+    display: flex;
+    align-items: end;
+}
+.what_can_atman_row{
+    margin-bottom: 40px;
+}
+.hyper_personalized_box h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 33px;
+    margin-bottom: 30px;
+}
+.hyper_personalized_box p {
+    color: white;
+    font-size: 14px;
+    padding-right: 80px;
+}
+.hyper_personalized_box_row{
+    display: flex;
+    align-items: center;
+}
+.trainning_digital_human_meet_sec {
+    padding: 60px 0px;
+    background-image: url('../app/img/Group-43.png');
+    background-size: 118% 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 0px;
+}
+.train_digital_human_boxx h1 {
+    font-weight: 400;
+    font-size: 57px;
+    color: white;
+    margin-bottom: 35px;
+    line-height: 1.3;
+    padding-top: 50px;
+}
+.train_digital_human_boxx span{
+    color: #3399FF;
+}
+.train_digital_human_boxx p {
+    padding-left: 40px;
+    color: white;
+}
+.what_you_can_train_sec{
+    padding: 60px 0px;
+    background: transparent linear-gradient(91deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+}
+.what_you_train_box h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 60px;
+    margin-bottom: 90px;
+}
+.what_you_train_box span{
+    color: #3399FF;
+}
+.what_you_train_box p {
+    color: white;
+}
+.adapt_operation_box{
+    padding: 20px;
+    padding-top: 0px;
+}
+.adapt_operation_box h6{
+    color: white;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.adapt_operation_box h6::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 25%;
+    height: 6px;
+    background: #3399FF;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    top: 55%;
+}
+.adapt_operation_box p {
+    color: white;
+    padding: 20px 0px;
+}
+.how_it_works_gour_sec{
+    padding: 80px 0px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.how_it_four_work_box h1 {
+    color: white;
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.how_it_four_work_box span{
+    color: #3399FF;
+}
+.atman_four_step_box{
+    color: white;
+    padding: 0px 20px;
+}
+.atman_four_step_box h2{
+    color: #3399FF;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.atman_four_step_box h6 {
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 14px;
+}
+.atman_four_step_row{
+    display: flex;
+    justify-content: space-between;
+}
+.atman_four_why_train_sec{
+    padding: 60px 0px;
+    background-image: url('../app/img/Group-41.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.atman_four_why_train_box h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 60px;
+}
+.atman_four_why_train_box span{
+    color: #3399FF;
+}
+.personalised_performance_box{
+    color: white;
+    position: relative;
+    padding-left: 20px;
+}
+.personalised_performance_box::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    left: 0%;
+    top: 5px;
+}
+.personalised_performance_box::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0);
+    border: 2px solid #3399FF;
+    opacity: 1;
+    left: -6px;
+    top: -1px;
+}
+.personalised_performance_box h6{
+    margin-bottom: 20px;
+}
+.personalised_performance_box p{
+    color: #E3E1EB;
+}
+.personalised_performance_box_margin{
+    margin-top: 35px;
+}
+.train_perform_sec{
+    padding: 60px 0px;
+    padding-bottom: 100px;
+    background-image: url('../app/img/Group-42.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.train_todaY_tomorrow_box{
+    text-align: center;
+}
+.train_todaY_tomorrow_box h1 {
+    color: white;
+    font-size: 55px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.train_todaY_tomorrow_box p{
+    text-align: center;
+    color: white;
+    margin-bottom: 60px;
+}
+.atman_five_company_sec{
+    padding: 80px 0px;
+    background: transparent linear-gradient(174deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.atman_five_comany_box{
+    color: white;
+}
+.atman_five_comany_box h1 {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.atman_five_comany_col{
+    display: flex;
+    align-items: center;
+}
+.company_row{
+    margin-bottom: 50px;
+}
+.meent_minds_box_atmna h1{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.meent_minds_box_atmna span{
+    color: #3399FF;
+}
+.atman_founder_box img{
+    width: 50%;
+    margin-bottom: 25px;
+}
+.atman_founder_box h3{
+    color: white;
+    margin-bottom: 30px;
+}
+.atman_founder_box{
+    color: white;
+}
+.atman_five_mission_vision_sec{
+    padding: 90px 0px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.amtan_five_misson_box{
+    padding: 40px 30px;
+    background: #333399;
+    border-radius: 20px;
+    border: 1px solid #3399FF;
+    box-shadow: 0px 15px 35px #3399FF59;
+    height: 100%;
+}
+.mission_text_box h3{
+    color: white;
+    font-weight: 400;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.mission_text_box{
+    color: white;
+}
+.mission_img_box{
+    padding: 0px 8px;
+}
+.what_set_atman_aprt_sec{
+    padding: 80px 0px;
+    background-image: url('../app/img/man-holds-chart-growth.png');
+    background-repeat: no-repeat;
+    background-size: 100% 103%;
+    color: white;
+}
+.what_set_atman_aprt_box h1{
+    font-size: 49px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.what_set_atman_aprt_box span{
+    color: #3399FF;
+}
+.what_set_atman_aprt_box p {
+    padding-left: 30px;
+}
+.bcs_solution_row{
+    padding-left: 30px;
+    margin-top: 50px;
+}
+.Business_Centric_Solutions_box{
+    padding-right: 30px;
+}
+.Business_Centric_Solutions_box h6 {
+    position: relative;
+    padding-bottom: 30px;
+}
+.Business_Centric_Solutions_box h6::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 20%;
+    height: 6px;
+    background: #3399FF;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    top: 37%;
+}
+.atman_five_join_box{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.atman_six_flexible_plan_sec{
+    padding: 60px 0px;
+    padding-top: 120px;
+background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.flexiblr_plan_box h1{
+    font-size: 55px;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.flexiblr_plan_box span{
+    color: #3399FF;
+}
+.flexiblr_plan_box p{
+    color: white;
+    padding-left: 40px;
+}
+.atman_six_dlexible_row{
+    margin-bottom: 50px;
+}
+.atman_six_whatYou_box h1{
+    font-size: 50px;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.atman_six_whatYou_box span{
+    color: #3399FF;
+}
+.atman_six_scaleble_solution_box img{
+    width: 35%;
+    margin-bottom: 25px;
+}
+.atman_six_scaleble_solution_box{
+    padding: 20px;
+}
+.atman_six_scaleble_solution_box h6{
+    color: white;
+    font-weight: 600;
+    position: relative;
+    margin-bottom: 40px;
+}
+.atman_six_scaleble_solution_box h6::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 30%;
+    height: 6px;
+    background: #3399FF;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    top: 100%;
+}
+.atman_six_scaleble_solution_box p {
+    color: white;
+}
+.atman_six_how_it_work_sec{
+    padding: 70px 0px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    padding-bottom: 100px;
+}
+.atman_six_how_it_work_box h1{
+color: white;
+font-size: 50px;
+font-weight: 400;
+margin-bottom: 40px;
+}
+.atman_six_how_it_work_box span{
+    color: #3399FF;
+}
+.atman_six_monthly_biling_box{
+    padding: 25px;
+    background: var(--unnamed-color-333399) 0% 0% no-repeat padding-box;
+border: 1px solid var(--unnamed-color-3399ff);
+background: #333399 0% 0% no-repeat padding-box;
+box-shadow: 0px 15px 35px #3399FF59;
+border: 1px solid #3399FF;
+border-radius: 24px;
+color: white;
+position: relative;
+}
+.atman_six_monthly_biling_box::after {
+    content: "";
+    position: absolute;
+    top: -13px;
+    right: 44px;
+    width: 30px;
+    height: 30px;
+    background-image: url('../app/img/accept_4315445.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.atman_six_monthly_biling_box h6{
+    margin-bottom: 20px;
+}
+.atman_six_choose_plan_sec{
+    padding: 70px 0px;
+    background: transparent linear-gradient(91deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    color: white;
+}
+.choose_the_plan_box h1{
+    font-size: 49px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.atman_six_basic_plan_box{
+    border: 1px solid var(--unnamed-color-3399ff);
+background: transparent linear-gradient(180deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 15px 35px #3399FF59;
+border: 1px solid #3399FF;
+border-radius: 24px;
+padding: 25px;
+position: relative;
+height: 100% !important;
+}
+.atman_six_basic_plan_box h3 {
+    font-weight: 400;
+    font-size: 29px;
+    margin-bottom: 20px;
+}
+.atman_six_basic_plan_box h1 {
+    color: #3399FF !important;
+    font-weight: 400;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.atman_six_basic_plan_box span{
+    font-size: 12px;
+    color: white !important;
+}
+.atman_six_basic_plan_box b{
+   margin-bottom: 15px;
+}
+.basic_for_indivial_para{
+    padding-bottom: 10px;
+    position: relative;
+}
+.atman_six_basic_plan_box ul{
+    position: relative;
+}
+.atman_six_basic_plan_box ul::after {
+    content: "";
+    display: block;
+    width: 100%; /* Adjust as needed */
+    height: 1px; /* Adjust as needed */
+    background-image: url('../app/img/Line-1.svg'); /* Replace with your image URL */
+    background-size: cover;
+    position: absolute;
+    top: -9px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.atman_six_basic_plan_box ul li{
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+.get_btn {
+    position: absolute;
+    left: 30%;
+    background: transparent linear-gradient(180deg, var(--unnamed-color-333399) 0%, var(--unnamed-color-3399ff) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    border: 0px;
+    border-radius: 14px;
+    padding: 8px 25px;
+    font-size: 14px;
+    color: white;
+    bottom: -15px;
+
+}
+.most_btn {
+    position: absolute;
+    left: 44%;
+    background: transparent linear-gradient(180deg, var(--unnamed-color-333399) 0%, var(--unnamed-color-3399ff) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px 17px;
+    font-size: 14px;
+    color: white;
+    top: -15px;
+}
+.start_span{
+    color: #3399FF !important;
+    font-size: 16px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+.atmna_six_get_rady_sec{
+    padding: 60px 0px;
+    background: transparent linear-gradient(160deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    color: white;
+}
+.atmna_six_get_rady_box{
+    text-align: center;
+}
+.atmna_six_get_rady_box h1{
+    font-size: 55px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.atmna_six_get_rady_box span{
+    color: #3399FF;
+}
+.atmna_six_get_rady_box p{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.get_btn_ready {
+    background: transparent linear-gradient(180deg, var(--unnamed-color-333399) 0%, var(--unnamed-color-3399ff) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    border: 0px;
+    border-radius: 14px;
+    padding: 8px 55px;
+    font-size: 14px;
+    color: white;
+}
+ 
 
 
 

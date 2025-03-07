@@ -86,7 +86,7 @@ function IndexPage() {
                             <h6 className="quick_head">COMPANY</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">About Us</Link>
+                                    <Link href="/about-us" className="foot-links">About Us</Link>
                                 </li>
                                 <li className="foot-item">
                                     <Link href="#" className="foot-links">Contact Us</Link>
