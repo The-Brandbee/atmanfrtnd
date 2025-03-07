@@ -19,6 +19,10 @@ p{
 .links-box ul{
     padding-left: 0px;
 }
+.homes-slider-main{
+    background: transparent linear-gradient(175deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    padding-top: 140px;
+}
 .header-row-cent{
     align-items: center;
 }
@@ -32,7 +36,9 @@ p{
     background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
    }
 .header {
-  background: black;
+ position: absolute;
+ width: 100%;
+
   padding: 10px;
 }
 .nav_col{
@@ -88,9 +94,34 @@ p{
   display: flex;
   align-items: center;
 }
+.ma-slider-new-frame-inner-two-right h2{
+color: #fff;
+font-weight: 400;
+font-size: 48px;
+}
+.ma-slider-new-frame-inner-two-right h2 span{
+  color: #3399ff;  
+}
+.ma-slider-new-frame-inner-two-right p{
+    color: #fff;
+    margin-top: 30px;
+    padding-left: 100px;
+    width: 70%;
+}
+.ma-slider-new-frame-inner-two-right p a{  
+    width: auto !important;
+    border: 0px;
+    color: white;
+    border-radius: 20px;
+    padding: 7px 10px;
+    font-size: 14px;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    text-decoration:none;   
+}
 .explore_sec {
   background: black;
   padding: 30px 0px;
+  padding-top: 70px;
 }
 .explore_heading {
   color: white;
@@ -1095,6 +1126,29 @@ height: 100% !important;
     color: white;
     bottom: -15px;
 
+}
+
+.ma-slider-new-frame-inner{
+    display: flex;                      
+    justify-content: space-between;
+}
+.ma-slider-new-frame-inner-two-left{
+    width: 50%;
+}
+.ma-slider-new-frame-inner-two-right{
+    width: 40%;
+    margin-top: 5%;  
+}
+.cder-ca-slide .react-multiple-carousel__arrow--right{      
+    bottom: 15%; 
+    right: 10%;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+}
+.cder-ca-slide .react-multiple-carousel__arrow--left{ 
+    bottom: 15%; 
+    right: 15%;
+    left: auto;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
 }
 .most_btn {  
     position: absolute;

@@ -4,6 +4,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import Header from "../app/common/Header.js";
+import TestimonialSlideTwo2 from "../app/common/HomeSlide.js";      
 import Footer from "../app/common/Footer.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Montserrat } from "next/font/google";
@@ -15,7 +16,7 @@ import shutterstock2455853761 from "../app/img/shutterstock_2455853761.png";
 import dOne from "../app/img/3d-3.png";
 import Dtwo from "../app/img/3d-2.png";
 import Dthree from "../app/img/3d-1.png";
- 
+  
 
 export default function Home() {
 
@@ -26,8 +27,12 @@ export default function Home() {
         <header>
           <Header />
           </header> 
-
-
+   
+<section className="homes-slider-main">   
+  <div className="container">
+      <TestimonialSlideTwo2/> 
+  </div> 
+</section>
 
 <section className="explore_sec">
     <div className="container">
