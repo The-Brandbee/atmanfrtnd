@@ -36,7 +36,7 @@ function IndexPage() {
               <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                   <li className="nav-item">
-                    <a className="nav-link" href="#">FEATURES</a>
+                    <Link className="nav-link" href="/features">FEATURES</Link>
                   </li>
                   <li className="nav-item">
                     <a className="nav-link" href="#">USE-CASES</a>

@@ -576,8 +576,12 @@ ul{
 }
 .what_can_atman_box h1{
     color: white;
-    font-size: 55px;
+    font-size: 48px;
     font-weight: 400;
+}
+.what_train_img_box img{
+    width: 80%;
+    height: auto;
 }
 .what_can_atman_box span{
     color: #3399FF;
