@@ -583,6 +583,10 @@ ul{
     width: 80%;
     height: auto;
 }
+.mission_img_box img{
+    height: auto;
+    width: 90%;   
+}
 .what_can_atman_box span{
     color: #3399FF;
 }
@@ -815,15 +819,23 @@ ul{
     color: #3399FF;
 }
 .atman_founder_box img{
-    width: 50%;
+    width: 330px;
     margin-bottom: 25px;
+    height: auto;
 }
 .atman_founder_box h3{
     color: white;
     margin-bottom: 30px;
 }
+.flexiblr_plan_box{
+    margin-top: 10%; 
+}
+.atman_six_scaleble_solution_box-main{
+    margin-top: 40px !important;
+}
 .atman_founder_box{
     color: white;
+    width: 85%;
 }
 .atman_five_mission_vision_sec{
     padding: 90px 0px;
@@ -869,7 +881,7 @@ ul{
 }
 .bcs_solution_row{
     padding-left: 30px;
-    margin-top: 50px;
+    margin-top: 50px  !important;
 }
 .Business_Centric_Solutions_box{
     padding-right: 30px;
@@ -914,6 +926,10 @@ background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% 
 }
 .atman_six_dlexible_row{
     margin-bottom: 50px;
+    margin-top: 50px !important;
+}
+.atman_six_monthly_biling_box-main-all{
+
 }
 .atman_six_whatYou_box h1{
     font-size: 50px;
@@ -927,6 +943,7 @@ background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% 
 .atman_six_scaleble_solution_box img{
     width: 35%;
     margin-bottom: 25px;
+    height: auto;
 }
 .atman_six_scaleble_solution_box{
     padding: 20px;
@@ -966,6 +983,9 @@ margin-bottom: 40px;
 .atman_six_how_it_work_box span{
     color: #3399FF;
 }
+.atman_six_basic_plan_box ul{
+    padding-left: 0px !important;
+}
 .atman_six_monthly_biling_box{
     padding: 25px;
     background: var(--unnamed-color-333399) 0% 0% no-repeat padding-box;
@@ -976,6 +996,7 @@ border: 1px solid #3399FF;
 border-radius: 24px;
 color: white;
 position: relative;
+height: 100%;
 }
 .atman_six_monthly_biling_box::after {
     content: "";

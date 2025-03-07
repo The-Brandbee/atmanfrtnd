@@ -36,16 +36,16 @@ function IndexPage() {
               <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                   <li className="nav-item">
-                    <Link className="nav-link" href="/features">FEATURES</Link>
+                    <Link className="nav-link" href="/features">FEATURES</Link >   
                   </li>
                   <li className="nav-item">
                     <a className="nav-link" href="#">USE-CASES</a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">COMPANY</a>
+                    <Link className="nav-link" href="/company">COMPANY</Link> 
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">PRICING</a>
+                    <Link className="nav-link" href="/pricing">PRICING</Link>    
                   </li>
                   <li className="nav-item">
                     <a className="nav-link" href="#">TRAINING</a>
