@@ -692,6 +692,9 @@ ul{
     text-align: center;
     margin-bottom: 40px;
 }
+.w-100{
+    height: auto;
+}
 .work_box img{
     height: auto;
 }
@@ -721,6 +724,7 @@ ul{
     background-image: url('../app/img/Group-41.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .atman_four_why_train_box h1 {
     color: white;
