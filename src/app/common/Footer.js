@@ -59,15 +59,15 @@ function IndexPage() {
             </div>
             <div className="col-lg-8 col-md-8 col-sm-12">
                 <div className="links-box">
-                    <div className="row">  
+                    <div className="row">
                         <div className="col-lg-4 col-md-4 col-sm-6 col-6">
-                            <h6 className="quick_head">USE-CASES</h6>    
+                            <h6 className="quick_head">USE-CASES</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">Training  Development</Link>
+                                    <Link href="#" className="foot-links">Training & Development</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">Sales  Marketing</Link>
+                                    <Link href="#" className="foot-links">Sales & Marketing</Link>
                                 </li>
                              </ul>
                         </div>
@@ -104,7 +104,7 @@ function IndexPage() {
             </div>
             <div className="col-lg-12 col-md-12 col-sm-12">
                 <div>
-                    <p className="copyright">Copyright <span className="atnam">Atman.ai</span></p>
+                    <p className="copyright">Copyright@ <span className="atnam">Atman.ai</span></p>
                 </div>
             </div>
         </div>
