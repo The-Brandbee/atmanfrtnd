@@ -231,6 +231,7 @@ p{
     background-image: url(../app/img/AI-Banner.png);    
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 .why_choose_head{
     color: #3399ff;
@@ -690,6 +691,9 @@ ul{
     font-weight: 400;
     text-align: center;
     margin-bottom: 40px;
+}
+.work_box img{
+    height: auto;
 }
 .how_it_four_work_box span{
     color: #3399FF;
