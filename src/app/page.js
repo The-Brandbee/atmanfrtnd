@@ -111,7 +111,8 @@ export default function Home() {
         <div className="row digital_partner_row_1">
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="Meet-Your-AI-Powered">
-                 
+                <iframe width="100%" height="300" src="https://www.youtube.com/embed/DZLlw5BNQ3g" title="Artificial Intelligence, AI Stock Footage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                </iframe> 
                 </div>
             </div>
             <div className="col-lg-5 col-md-5 col-sm-12 digital_partner_col_2">
