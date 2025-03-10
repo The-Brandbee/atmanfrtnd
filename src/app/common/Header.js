@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import Logo from "../img/logo_header.svg"; 
+import HeaderMobileIn from "../common/HeaderMobile.js";
 
 
 
@@ -68,6 +69,9 @@ function IndexPage() {
                 <button className="Request-a-Demo" href="#">Request A Demo</button>
               </li>
             </ul>
+          </div>
+          <div className="header-menu-mobile col-md-8">
+          <HeaderMobileIn />
           </div>
         </div>
       </div>

@@ -1696,10 +1696,158 @@ margin-bottom: 40px;
     color: white;
     padding-bottom: 55px;
 }
+
+
+.header-menu-mobile{
+    display: block !important;
+}
+.header-menu-mobile.col-md-8{
+width: 50%;
+}
+.dropdown.mobilemenu-new{
+    margin-top: -15px;
+}
+ .accordion__item a{
+    color: #000;
+    text-decoration: none;
+}
   }
  
 
+/*menu */  
+.bm-menu-wrap {
+    background: #08313aad;
+    left: 0;
+    top: 0;
+    width: 100%!important;
+    z-index: 99999999 !important;
+}
+.bm-menu-wrap .bm-menu {
+    background: #fff;
+    width: 75%!important;
+    position: relative;
+}
+.mobilemenu-new .accordion__button{
+    background-color: #fff;
+    position: relative;
+}
+.bm-menu-wrap .bm-cross-button {
+    height: 100%!important;
+    width: 15%!important;
+}
+.bm-cross {
+    background: #fff;
+}
 
+.dropdown.mobilemenu-new .accordion__button:before {
+    content: inherit;
+}
+.bm-overlay {
+    background: transparent!important;
+    right: 0;
+    width: 0!important;
+}
+.bm-burger-button {
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+    width: 36px;
+}
+.bm-burger-bars {
+    background-color: #fff!important;
+    border-radius: 1px;
+    display: block;
+    height: 3px!important;
+    margin-bottom: 5px;
+    opacity: 1!important;
+    position: relative!important;
+    top: 0!important;
+    width: 28px;
+}
+.dropdown.mobilemenu-new .accordion__item:nth-child(1) .accordion__button::after {
+    content: inherit;
+}
+.dropdown.mobilemenu-new .accordion__item:nth-child(4) .accordion__button::after {
+  content: inherit;
+}
+.dropdown.mobilemenu-new .accordion__item:nth-child(7) .accordion__button::after {
+    content: inherit;
+}   
+.dropdown.mobilemenu-new .accordion__item:nth-child(8) .accordion__button::after {
+    content: inherit;
+}
+.dropdown.mobilemenu-new .Menu-underLink li a {
+    color: #eb5e26!important;
+    display: inline-block;
+    padding: 8px 0;
+}
+.dropdown.mobilemenu-new .Menu-underLink li{
+    list-style-type: none;
+}
+.img-responsive_all{width: 100%;}
+.col-md-12.mobile {
+display: inherit;
+}
+.logo img {
+width: 120px;
+}
+.Mobile_menu{display: initial;float: right;
+}
+.row.desktop{display: none;}
+.Mobile_menu .icon-bar {
+background-color: #888;
+display: block;
+width: 22px;
+height: 2px;
+border-radius: 1px;
+
+}
+.Mobile_menu .icon-bar+.icon-bar {
+margin-top: 4px;
+}
+.Mobile_menu .button{
+background-color: #ddd;
+padding: 9px 10px;
+width: 42px;
+float: right;
+}
+
+.Mobile_menu .dropdown{    position: relative;}
+.Mobile_menu .button ~ ul{    position: absolute;
+left: 0px;
+top: 0px;
+z-index: 99999;
+background: #fff;
+width: 100%;
+padding: 5px 20px;
+border-top: 1px solid #ccc;
+margin-top:0px;}
+
+.Mobile_menu .button ~ ul li{    list-style-type: none;}
+.Mobile_menu .button ~ ul li a{  
+text-decoration: none !important;
+font-size: 17px; 
+line-height: 28px;
+font-family: 'Raleway', sans-serif;
+border-bottom: 1px solid #ccccccb8;
+color: #000;
+padding-top: 5px;
+padding-bottom: 5px;
+position: relative;
+display: block;
+}
+
+.react-tabs__tab{
+font-size: 15px;
+padding: 10px 4px;
+width: 50%;
+text-align: center;
+}
+.header-menu-mobile{
+    display: none;
+}
+  /*menu end */
 
 
 
