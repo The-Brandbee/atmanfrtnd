@@ -1695,6 +1695,7 @@ margin-bottom: 40px;
     background-size: cover;
     color: white;
     padding-bottom: 55px;
+    padding-top: 90px;
 }
 
 
@@ -1710,6 +1711,10 @@ width: 50%;
  .accordion__item a{
     color: #000;
     text-decoration: none;
+}
+.atman_founder_box {
+    color: white;
+    width: 100%;
 }
   }
  
