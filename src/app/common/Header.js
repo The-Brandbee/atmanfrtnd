@@ -39,7 +39,7 @@ function IndexPage() {
                     <Link className="nav-link" href="/features">FEATURES</Link >   
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">USE-CASES</a>
+                    <Link className="nav-link" href="/use-cases">USE-CASES</Link>
                   </li>
                   <li className="nav-item">
                     <Link className="nav-link" href="/company">COMPANY</Link> 

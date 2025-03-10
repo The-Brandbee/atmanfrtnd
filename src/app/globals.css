@@ -391,9 +391,12 @@ ul{
 
 
 /* CSS 3 MArch 2025 */
+.header{
+    padding: 10px !important;
+}
 .header-inner{
     background: #00000000;
-    padding: 10px;
+    padding: 0px;
     position: absolute;
     width: 100%;
 }
@@ -1151,7 +1154,197 @@ height: 100% !important;
 }
 
 
+/* CSS 10 March 2025 */
+.seven_use_cases_sec{
+    padding: 60px 0px;
+    padding-top: 120px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    color: white;
+}
+.seven_use_cases_box{
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.seven_use_cases_box h1{
+    padding-bottom: 34px;
+    font-weight: 400;
+    font-size: 45px;
+}
+.use_cases_seven_col{
+    padding-top: 30px;
+}
+.seven_trainning_dev_sec{
+    padding: 70px 0px;
+    background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    color: white;
+    overflow: hidden;
+    position: relative;
+}
+.seven_trainning_dev_sec::after {
+    content: "";
+    display: block;
+    width: 62%;
+    height: 50%;
+    background-image: url('../app/img/Path-106.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 28%;
+    right: 20px;
+}
 
+.seven_training_development_box h2{
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+.seven_training_development_box p{
+    margin-bottom: 35px;
+}
+.seven_personalized_trainning_box h6{
+    color: #3399FF;
+    margin-bottom: 20px;
+    position: relative;
+}
+.seven_personalized_trainning_box{
+    padding: 20px 50px;
+}
+
+.seven_personalized_trainning_box p{
+    font-size: 13px;
+}
+.seven_personalized_trainning_box h6::before {
+    content: "";
+    display: block;
+    width: 22px;
+    height: 22px;
+    background-image: url('../app/img/accept_4315445.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    top: 0px !important;
+    left: -32px !important;
+    position: absolute;
+}
+.marketing_and_customer_row{
+    margin-top: 60px;
+}
+.seven_ready_to_transorm_sec{
+    padding: 80px 0px;
+    background-image: url('../app/img/future-visions-business-technology-concept.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+.reday_to_transform_seven_box h1{
+    font-size: 62px;
+    font-weight: 400;
+    margin-bottom: 45px;
+}
+
+.reday_to_transform_seven_box span{
+    font-size: 62px;
+    color: #3399FF;
+}
+
+.reday_to_transform_seven_box p{
+    margin-bottom: 25px;
+}
+.reday_to_transform_seven_box h6 {
+    margin-bottom: 50px;
+    font-weight: 900;
+}
+.rewust_btnnn {
+    background: transparent linear-gradient(180deg, var(--unnamed-color-333399) 0%, var(--unnamed-color-3399ff) 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    border: 0px;
+    border-radius: 10px;
+    padding: 8px 17px;
+    font-size: 14px;
+    color: white;
+}
+.eight_join_the_future_sec{
+    padding: 120px 0px;
+    background-image: url('../app/img/Group-43-2.png');
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+.eight_join_the_future_box h1 {
+    font-size: 56px;
+    font-weight: 400;
+    margin-bottom: 45px;
+}
+.eight_join_the_future_box span {
+    color: #3399FF;
+}
+
+.eight_join_the_future_box p {
+    padding-left: 45px;
+}
+.eight_carrer_sec {
+    padding: 80px 0px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    color: white;
+    position: relative;
+    padding-bottom: 40px;
+}
+.atman_eight_carrer_box {
+    padding: 20px;
+}
+.atman_eight_carrer_box h6{
+    position: relative;
+    margin-bottom: 40px;
+}
+.atman_eight_carrer_box h6::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 17%;
+    height: 6px;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    margin-top: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    bottom: -43px;
+}
+.atman_caarr{
+    margin-bottom: 40px;
+}
+
+
+.eight_carrer_sec::before, .eight_carrer_sec::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 4%;
+    height: 55%;
+    top: 20%;
+}
+
+.eight_carrer_sec::before {
+    left: 0;
+    background: #333399 0% 0% no-repeat padding-box;
+    opacity: 0.56;
+    filter: blur(50px);
+}
+
+.eight_carrer_sec::after {
+    right: 0;
+    background: #333399 0% 0% no-repeat padding-box;
+    opacity: 0.56;
+    filter: blur(50px);
+}
+.eight_form_outer_box{
+    /* padding: 25px ; */
+    background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+border-radius: 20px;
+}
+.hsfc-Step .hsfc-Step__Content {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 25px !important;
+}
 
 @media all and (min-width:120px) and (max-width:620px){
     .explore_heading {
@@ -1467,6 +1660,41 @@ margin-bottom: 40px;
     color: white;
     font-size: 14px;
     padding-right: 0px;
+}  
+.seven_use_cases_box h1 {
+    padding-bottom: 34px;
+    font-weight: 400;
+    font-size: 32px;
+}
+.seven_use_cases_sec{
+    padding-top: 70px;
+}
+.seven_trainning_dev_sec{
+   padding-bottom: 30px; 
+}
+.reday_to_transform_seven_box h1 {
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.reday_to_transform_seven_box span{
+    font-size: 35px;
+}
+.seven_ready_to_transorm_sec{
+    background-size: cover;
+}
+.eight_join_the_future_box h1 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.eight_join_the_future_box p {
+    padding-left: 0px;
+}
+.eight_join_the_future_sec{
+    background-size: cover;
+    color: white;
+    padding-bottom: 55px;
 }
   }
  

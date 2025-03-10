@@ -87,7 +87,10 @@ function IndexPage() {
                              <ul className="">
                                 <li className="foot-item">
                                     <Link href="/about-us" className="foot-links">About Us</Link>
-                                </li>
+                                </li> 
+                                <li className="foot-item">
+                                    <Link href="/career" className="foot-links">Career</Link>
+                                </li>      
                                 <li className="foot-item">
                                     <Link href="#" className="foot-links">Contact Us</Link>
                                 </li>
