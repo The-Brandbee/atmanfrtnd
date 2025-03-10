@@ -1716,6 +1716,15 @@ width: 50%;
     color: white;
     width: 100%;
 }
+.digital_sec {
+    padding-top: 0px;
+}
+.three_about_sec{
+    background-size: cover;
+}
+.what_set_atman_sec{
+    padding-top: 0px; 
+}
   }
  
 
