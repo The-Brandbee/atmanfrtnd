@@ -21,7 +21,7 @@ const HubSpotForm = () => {
 
   return (
     <> 
-     <div id="New"></div>   
+     <div id="New"></div>    
     </> 
   );
 };
