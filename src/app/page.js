@@ -188,23 +188,19 @@ export default function Home() {
                 <div className="Customizable-to-Your-Needs-main-frame">
                     <div className="row">
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
-                            <h6 className="needs_heading">Customizable </h6>
-                            <h6 className="needs_heading2"> to Your Needs</h6>
+                            <h6 className="needs_heading2">Customizable <br/>to Your Needs</h6>
                             <p className="need_para">Atmans digital humans can be trained to perform specific tasks, adapting to your business requirements with ease.</p>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
-                            <h6 className="needs_heading">24/7  </h6>
-                            <h6 className="needs_heading2"> Availability</h6>
+                            <h6 className="needs_heading2">24/7  <br/>Availability</h6>    
                             <p className="need_para">These intelligent avatars are always operational, ensuring continuous support for your business functions, without downtime.</p>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
-                            <h6 className="needs_heading">Optimized </h6>
-                            <h6 className="needs_heading2"> Performance</h6>
+                            <h6 className="needs_heading2">Optimized <br/>Performance</h6>        
                             <p className="need_para">These intelligent avatars are always operational, ensuring continuous support for your business functions, without downtime.</p>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
-                            <h6 className="needs_heading">Measurable </h6>
-                            <h6 className="needs_heading2"> Business Impact</h6>
+                            <h6 className="needs_heading2">Measurable <br/>Business Impact</h6>       
                             <p className="need_para">Atmans digital humans help enhance productivity, reduce operational bottlenecks, and enable scalable growth, delivering results that matter.</p>
                         </div>
                     </div>

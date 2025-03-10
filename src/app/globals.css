@@ -38,7 +38,7 @@ p{
 .header {
  position: absolute;
  width: 100%;
-
+ left: 0px;
 }
 .nav_col{
     justify-content: end;
@@ -388,56 +388,7 @@ ul{
 
 
 
-@media only screen and (max-width: 600px) {
-    .explore_heading {
-        margin-bottom: 20px;
-    }
-    .digital_heading {
-        margin-left: 0px;
-        font-size: 22px;
-        margin-bottom: 30px;
-    }
-    .blue_box_row {
-        margin-top: 0px;
-        padding-bottom: 25px;
-    }
-    .blue_box {
-        padding: 0px;
-    }
-    .digital_partner_sec {
-        padding: 30px 0px;
-    }
-    .digital_partner_row_1 {
-        margin-bottom: 30px;
-    }
-    .try_box {
-        padding-bottom: 30px;
-    }
-    .human_slider_box {
-        padding-left: 0px;
-    }
-    .humax_box {
-        margin: 10px 0px;
-    }
-    .why_sec {
-        padding: 15px 0px;
-    }
-    .need_col{
-        margin: 15px 0px;
-    }
-    .touch_box {
-        margin-top: 15px;
-    }
-    .links-box {
-        padding-left: 0px;
-    }
-    .footer {
-        padding: 30px 0px;
-        padding-bottom: 10px;
-    }
 
-
-  }
 
 /* CSS 3 MArch 2025 */
 .header-inner{
@@ -1198,6 +1149,326 @@ height: 100% !important;
     font-size: 14px;
     color: white;
 }
+
+
+
+
+@media all and (min-width:120px) and (max-width:620px){
+    .explore_heading {
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    .explore_content{
+        padding-left: 0px;
+        width: 90%;
+    }
+    .blue_box_row {
+        margin-top: 0px !important;    
+    }
+    .digital_heading {
+        margin-left: 0px;
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+    .blue_box_row {
+        margin-top: 0px;
+        padding-bottom: 25px;
+    }
+    .blue_box {
+        padding: 10px;
+    }
+    .work_text_col{
+        text-align: center;
+    }
+    .Meet-Your-AI-Powered iframe{
+        width: 100%;
+    }
+    .Try-Our-Digital-Humans-main-section {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .humax_box img {
+        width: 55% !important;
+        height: auto !important;
+        margin: 0 auto;
+        display: table;
+    }
+    .why_choose_head2{
+        font-size: 32px;
+    }
+    .why_choose_head{
+        font-size: 32px;
+    }
+    .footer_input-main-frame .col-md-3{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .footer-logo img{
+        width: 70% !important;
+    }
+    .Customizable-to-Your-Needs-main-frame .col-md-3{
+        width: 100%;
+    }
+    .why_choose_content_box {
+        padding: 20px 0px;
+    }
+    .needs_heading2 br{
+        display: none;
+    }
+    .needs_heading2{
+        font-size: 17px;
+    }
+    .digital_partner_sec {
+        padding: 30px 0px;
+    }
+    .digital_partner_row_1 {
+        margin-bottom: 30px;
+    }
+    .try_box {
+        padding-bottom: 30px;
+    }
+    .human_slider_box {
+        padding-left: 0px;
+    }
+    .humax_box {
+        margin: 10px 0px;
+    }
+    .why_sec {
+        padding: 15px 0px;
+    }
+    .need_col{
+        margin: 15px 0px;
+    }
+    .touch_box {
+        margin-top: 15px;
+    }
+    .links-box {
+        padding-left: 0px;
+    }
+    .footer {
+        padding: 30px 0px;
+        padding-bottom: 10px;
+    }
+
+.ma-slider-new-frame-inner {
+    display: inline-block;
+    width: 100%;
+}
+.ma-slider-new-frame-inner-two-left {
+    width: 70%;
+    margin: 0 auto;
+}
+.homes-slider-main{
+    padding-top: 110px;
+}
+.logo-box img{
+    width: 100%;
+}
+.ma-slider-new-frame-inner-two-right {
+    width: 100%;
+    margin-top: 3%;
+}
+.ma-slider-new-frame-inner-two-right h2 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 28px;
+    text-align: center;
+}
+.ma-slider-new-frame-inner-two-right h2  br{
+    display: none;
+}
+
+
+.ma-slider-new-frame-inner-two-right p {
+    color: #fff;
+    margin-top: 30px;
+    padding-left: 0px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.cder-ca-slide  .react-multiple-carousel__arrow{
+display: none;
+}
+.nav_col.desktop{
+display: none;
+}
+.nav_col2.desktop{
+    display: none;
+}
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.what_can_atman_box h1 {
+    font-size: 36px;
+    font-weight: 400;
+}  
+.hyper_personalized_box h1{
+    font-size: 24px;
+}
+.hyper_personalized_box h1 br{
+    display: none;
+}
+.hyper_personalized_box p {
+    padding-right: 0px;
+}
+.train_digital_human_boxx h1{
+    font-size: 26px;
+    padding-top: 0px; 
+}
+.train_digital_human_boxx p {
+    padding-left: 0px;
+    color: white;
+}
+.what_you_train_box h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.how_it_four_work_box h1 {
+    color: white;
+    font-size: 39px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.atman_four_right_arrow_img_box {
+    display: none;
+}
+.atman_four_why_train_box h1{
+    font-size: 32px;
+}
+.train_todaY_tomorrow_box h1 {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.train_todaY_tomorrow_box p {
+    margin-bottom: 20px;
+}
+.atman_five_comany_box h1 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+.meent_minds_box_atmna h1{
+    font-size: 30px;
+}
+.amtan_five_misson_box .col-md-5{
+
+}
+.meent_minds_box_atmna h1 br{
+    display: none;
+}
+.amtan_five_misson_box .col-md-5 {
+    width: 100%;
+}
+.amtan_five_misson_box  .col-md-7{
+    width: 100%;
+}
+.mission_img_box img {
+    height: auto;
+    width: 35%;
+}
+.mission_text_box h3 br{
+    display: none;
+}
+.amtan_five_misson_box {
+    padding: 30px 30px;
+}
+.atman_five_mission_vision_sec .col-md-6{
+    margin-bottom: 20px;
+}
+.atman_five_mission_vision_sec {
+    padding: 30px 0px;
+
+}
+.what_set_atman_aprt_box h1 {
+    font-size: 32px;
+}
+.what_set_atman_aprt_box h1 br{
+    display: none;
+}
+.what_set_atman_aprt_sec {
+    padding: 40px 0px;
+}
+.social_link img {
+    width: 22px;
+}
+.flexiblr_plan_box h1 {
+    font-size: 34px; 
+    margin-bottom: 30px;
+}
+.atman_six_flexible_plan_sec{
+    padding-top: 30px; 
+    padding-bottom: 30px;
+}
+.flexiblr_plan_box p {
+    padding-left: 0px;
+}
+.atman_six_whatYou_box h1 {
+    font-size: 30px;
+    color: white;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.atman_six_scaleble_solution_box img {
+    width: 60px;
+    margin-bottom: 25px;
+    height: auto;
+}
+.atman_six_how_it_work_box h1{
+    font-size: 34px; 
+}
+.atman_six_monthly_biling_box-main-all .col-md-4{
+    margin-bottom: 30px;
+}
+.atman_six_how_it_work_sec{
+    padding-bottom: 20px;
+}
+.choose_the_plan_box h1 {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.atman_six_choose_plan_sec {
+    padding: 40px 0px;
+}
+.atman_six_choose_plan_sec .col-md-4{
+margin-bottom: 40px;
+}
+.atmna_six_get_rady_box h1 {
+    font-size: 28px;
+}
+.three_about_sec{
+    padding-top: 120px;
+    padding-bottom: 35px;
+
+}
+.three_abot_atman_box p{
+    padding-right: 0px;
+    
+}
+.what_set_box h1 {
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+}
+.what_set_box h1 br{
+    display: none;
+}
+.pioneeringbox {
+    margin-top: 4%;
+}
+.pioneeringbox p {
+    color: white;
+    font-size: 14px;
+    padding-right: 0px;
+}
+  }
  
 
 

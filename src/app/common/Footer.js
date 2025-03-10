@@ -13,7 +13,7 @@ function IndexPage() {
 <section className="footer">
     <div className="container">
         <div className="row">
-            <div className="col-lg-3 col-md-3 col-sm-12">
+            <div className="col-lg-3 col-md-3 col-sm-12 footer-logo">
                <Link href="/">
                 <Image src={Logo} alt="" className="footer_logo w-100" />
                 </Link>
@@ -22,7 +22,7 @@ function IndexPage() {
         <div className="row">
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div>
-                    <div className="row">
+                    <div className="row footer_input-main-frame">
                         <div className="col-lg-9 col-md-9 col-sm-9 col-9">
                             <input type="text" className="footer_input"/>
                         </div>

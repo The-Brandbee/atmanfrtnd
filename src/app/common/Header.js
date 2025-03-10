@@ -20,7 +20,7 @@ function IndexPage() {
             </div>
           </div>
 
-          <div className="col-6 col-sm-8 col-md-6 nav_col">
+          <div className="col-6 col-sm-8 col-md-6 nav_col desktop">
             <nav className="navbar navbar-expand-lg navbar-light">
               <button
                 className="navbar-toggler"
@@ -56,7 +56,7 @@ function IndexPage() {
           </div>
 
          
-          <div className="col-12 col-sm-4 col-md-4 nav_col2">
+          <div className="col-12 col-sm-4 col-md-4 nav_col2 desktop">
             <ul className="nav">
               <li className="login-liks">
                 <a className="login-link" href="#">Login</a>
