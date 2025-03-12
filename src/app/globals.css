@@ -1346,7 +1346,56 @@ border-radius: 20px;
     padding: 25px !important;
 }
 
+
+/* CSS March 12 2025 */
+.nine_cattact_us_sec{
+    color: white;
+    padding: 40px 0px;
+    padding-top: 120px;
+    background-image: url('../app/img/Group-43.svg');
+}
+.nine_contaxt_us_col{
+    display: flex;
+    align-items: center;
+}
+.nine_contaxt_us_box h1{
+    font-size: 55px;
+    font-weight: 400;
+}
+.nine_contaxt_us_box span{
+    color: #3399FF;
+}
+.eight_carrer_sec a{
+    color: white !important;
+    text-decoration: none;
+}
+.atmn_connn p{
+    width:50% !important; 
+}
+.nine_cont_atman{
+    position: relative;
+}
+.nine_cont_atman::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 10%;
+    width: 44%;
+    height: 112%;
+    background-image: url('../app/img/Path-107.png');
+    background-size: cover;
+    background-position: center;
+}
+
+
 @media all and (min-width:120px) and (max-width:620px){
+    .nine_contaxt_us_box h1 {
+        font-size: 42px;
+        font-weight: 400;
+    }
+    .eight_carrer_sec{
+        padding-top: 0px;
+    }
     .explore_heading {
         margin-bottom: 20px;
         font-size: 24px;
