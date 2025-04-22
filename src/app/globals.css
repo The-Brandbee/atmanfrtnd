@@ -1340,6 +1340,12 @@ height: 100% !important;
     background: transparent linear-gradient(180deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
 border-radius: 20px;
 }
+.eight_form_outer_box-new{
+    background:#fff;
+border-radius: 0px;
+z-index: 99999;
+position: relative;
+}
 .hsfc-Step .hsfc-Step__Content {
     width: 100%;
     box-sizing: border-box;

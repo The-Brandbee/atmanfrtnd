@@ -92,7 +92,7 @@ function IndexPage() {
                                     <Link href="/career" className="foot-links">Career</Link>
                                 </li>      
                                 <li className="foot-item">
-                                    <Link href="/contact-us" className="foot-links">Contact Us</Link>
+                                    <a href="/contact-us" className="foot-links">Contact Us</a>
                                 </li>
                                 <li className="foot-item">
                                     <Link href="#" className="foot-links">Affiliate</Link>

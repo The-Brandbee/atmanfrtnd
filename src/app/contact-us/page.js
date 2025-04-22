@@ -4,6 +4,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import Header from "../common/Header.js";
+import Contactus from "../common/contactus.js";
 import Footer from "../common/Footer.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Montserrat } from "next/font/google";
@@ -11,11 +12,10 @@ import Script from "next/script";
 import shutterstockOne from "../img/shutterstock_2464103061.png";
 import shutterstock2403485771 from "../img/shutterstock_2403485771.png";
 import shutterstock2455853761 from "../img/shutterstock_2455853761.png";
-import ContactUsFrom from "../common/ContactUsFrom.js";
 import dOne from "../img/3d-3.png";
 import Dtwo from "../img/3d-2.png";
 import AboutMain from "../img/Group-50.png";
- 
+
 
 export default function Home() {
 
@@ -64,8 +64,8 @@ export default function Home() {
           </div>
         </div>
         <div className="col-lg-7 col-md-7 col-sm-12">
-          <div className="eight_form_outer_box">
-            
+          <div className="eight_form_outer_box-new">
+            <Contactus/>
           </div>
         </div>
       </div>
