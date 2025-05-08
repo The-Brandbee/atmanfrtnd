@@ -46,7 +46,7 @@ export default function Home() {
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 what_can_atman_para_col">
                 <div className="what_can_atman_para">
-                    <p>Atman brings the power of Ai-Powered digital humans to your business. These advanced solutions are designed to assist, streamline, and elevate your operations, helping you stay ahead in an ever-evolving market. Whether its optimizing internal workflows or enhancing external communication, Atman adapts to your needs and delivers measurable outcomes.</p>
+                    <p>Atman brings the power of AI-Powered digital humans to your business. These advanced solutions are designed to assist, streamline, and elevate your operations, helping you stay ahead in an ever-evolving market. Whether its optimizing internal workflows or enhancing external communication, Atman adapts to your needs and delivers measurable outcomes.</p>
                 </div>
             </div>
         </div>

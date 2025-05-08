@@ -131,60 +131,42 @@ export default function Home() {
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="atman_six_basic_plan_box">
                     <button className="most_btn"> MOST POPULAR</button>
-                    <h3>Basic</h3>
-                    <h1>$39.99 <span>/ month</span></h1>
+                    <h3>Starter</h3>
+                    <h1>$4500 <span>/ month</span></h1>
                     <p><b>For experimentation</b></p>
                     <p className="basic_for_indivial_para">For individuals who want to experience the power of Digital Humans</p>
                     <ul>
-                        <li>6 AI Avatar Options</li>
-                        <li>40 Minutes / Unlimited AI Prompts</li>
-                        <li>1 Digital Human</li>
-                        <li>Digital Human Live Deployment</li>
-                        <li>20 Video Downloads / Create Unlimited </li>
-                        <li>Videos</li>
-                        <li>Full Screen</li>
-                        <li>Reporting Dashboard</li>
-                        <li>Digital Human Creation</li>
-                        <li>Digital Human Templates</li>
-                        <li>Gestures</li>
-                        <li>Behavior Configuration</li>
-                        <li>Voice & Language Configuration</li>
-                        <li>Avatar Design Tool</li>
-                        <li>Conversational AI Integration</li>
+                    <li>8 hours fractional vCAIO</li>
+                        <li>AI Framework development</li>
+                        <li>Custom AI strategy policy</li>
+                        <li>Weekly progress reports </li>
+                        <li>1 Hour AI Sprint for Executives</li>
+                       
                     </ul>
                     <button className="get_btn">Get Started</button>
                 </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="atman_six_basic_plan_box">
-                    <h3>Advanced</h3>
-                    <h1>$159.99 <span>/ month</span></h1>
+                    <h3>Growth </h3>
+                    <h1>$8000 <span>/ month</span></h1>
                     <p><b>For  validation</b></p>
                     <ul>
-                        <li>Unlimited AI Avatar Options / Make your own Avatar</li>
-                        <li>350 Minutes / Unlimited AI Prompts</li>
-                        <li>Digital Human Live Deployment</li>
-                        <li>3 Digital Humans </li>
-                        <li>100 Video Downloads</li>
-                        <li>Full Screen or Custom Embedded </li>
-                        <li>Reporting Dashboard</li>
-                        <li>Digital Human Creation</li>
-                        <li>Digital Human Templates</li>
-                        <li>Gestures</li>
-                        <li>Behavior Configuration </li>
-                        <li>Voice & Language Configuration </li>
-                        <li>Avatar Design Tool</li>
-                        <li>Conversational AI Integration</li>
-                        <li>Custom LLM Integration</li>
+                        <li>2 days fractional vCAIO</li>
+                        <li>AI Framework development</li>
+                        <li>Custom AI strategy and policy</li>
+                        <li>Weekly progress reports </li>
+                        <li>4-week intensive AI Sprint for Executives</li>
+                       
                     </ul>
                     <button className="get_btn">Get Started</button>
                 </div>
             </div>
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="atman_six_basic_plan_box">
-                    <h3>Enterprise</h3>
-                    <p className="start_span">Starting</p>
-                    <h1>$3,900 <span>/ month</span></h1>
+                    <h3>Enterprise </h3>
+                   
+                    <h1>custom $ </h1>
                     <p><b>For scaling</b></p>
                     <ul>
                         <li>Unlimited AI Avatar Options / Make your own Avatar</li>
