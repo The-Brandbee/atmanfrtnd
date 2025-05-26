@@ -167,8 +167,8 @@ export default function Home() {
                     <h3>Enterprise </h3>
                    
                     <h1>custom $ </h1>
-                    <p><b>For scaling</b></p>
-                    <ul>
+                    <p className="nonenone"><b>For scaling</b></p>
+                    <ul className="nonenone">
                         <li>Unlimited AI Avatar Options / Make your own Avatar</li>
                         <li>Unlimited Minutes / Unlimited AI Prompts</li>
                         <li>Digital Human Live Deployment</li>

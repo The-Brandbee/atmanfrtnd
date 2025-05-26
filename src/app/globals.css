@@ -1708,7 +1708,9 @@ position: relative;
     padding-bottom: 40px;
 }
 
-
+.nonenone{
+    display: none;
+}
 
 @media all and (min-width:120px) and (max-width:620px){
     .row-rever{
