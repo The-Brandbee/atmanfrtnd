@@ -36,7 +36,7 @@ export default function Home() {
                   <h2>AI Powered Digital Humans <span> by Atman</span></h2>
                   <div className="bring_your_brand_box">
                      <h4>Bring Your Brand to Life with <br/>Digital Humans</h4>
-                     <p>Atman's AI Avatars transform how businesses connect, engage, and communicate. Designed to deliver hyper-realistic, human-like interactions, our avatars help you create unforgettable experiences from personalized training to immersive marketing.</p>
+                     <p>Atmans AI Avatars transform how businesses connect, engage, and communicate. Designed to deliver hyper-realistic, human-like interactions, our avatars help you create unforgettable experiences from personalized training to immersive marketing.</p>
                   </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@ export default function Home() {
                         <div className="col-lg-6 col-md-6 col-sm-12">
                            <div className="atman_what_we_offer_pointer_box">
                               <h6>Create Your Own Human</h6>
-                              <p>Bring your brand's unique face to life with custom-built humans that reflect your identity and values.</p>
+                              <p>Bring your brands unique face to life with custom-built humans that reflect your identity and values.</p>
                            </div>
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-12">
@@ -115,7 +115,7 @@ export default function Home() {
                   <div className="row">
                      <div className="col-lg-12 col-md-12 col-sm-12">
                         <div className="atman_video_what_we_offer_box">
-                           <h2>Why Choose Atman's <br/> <span> Digital Humans? </span></h2>
+                           <h2>Why Choose Atmans <br/> <span> Digital Humans? </span></h2>
                         </div>
                      </div> 
                   </div>
@@ -180,9 +180,9 @@ export default function Home() {
       <div className="row">
          <div className="col-lg-5 col-md-5 col-sm-12">
                <div className="ai_human_exprienece_box">
-                  <h2>Let's build your AI powered <br/> <span> Digital Human Experience</span></h2>
+                  <h2>Lets build your AI powered <br/> <span> Digital Human Experience</span></h2>
                      <div className="ready_to_elevate_box">
-                        <h6>Ready to elevate your business with Atman's Digital Humans?</h6>
+                        <h6>Ready to elevate your business with Atmans Digital Humans?</h6>
                         <p>Get in touch today to explore endless possibilities.</p>
                      </div>
                   <button className="request_btn" >Contact Us</button>   

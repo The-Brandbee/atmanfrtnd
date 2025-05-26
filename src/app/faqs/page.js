@@ -4,7 +4,7 @@ import Image from "next/image";
 import {
     Accordion,
     AccordionItem,
-    AccordionItemHeading,
+    AccordionItemHeading, 
     AccordionItemButton,
     AccordionItemPanel,
 } from 'react-accessible-accordion';

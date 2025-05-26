@@ -39,7 +39,7 @@ export default function Home() {
             <h2>AI Powered Training That Works, Learns, and Evolves</h2>
             <div className="personalised_box_training">
               <h4>Personalized. Scalable. Humanlike.</h4>
-              <p>Atman's digital humans are reshaping how companies train and develop their people. More than just virtual trainers, they’re adaptive learning partners that elevate skills, boost engagement, and help businesses stay ahead in a fast-changing world.</p>
+              <p>Atmans digital humans are reshaping how companies train and develop their people. More than just virtual trainers, they’re adaptive learning partners that elevate skills, boost engagement, and help businesses stay ahead in a fast-changing world.</p>
             </div>
           </div>
       </div>
@@ -69,7 +69,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12 hyper_personalized_box_row">
                 <div className="hyper_personalized_box">
                     <h1>Adaptive Virtual Trainers</h1>
-                    <p>Move beyond one-size-fits-all learning. Atman's AI avatars customize training to each employee’s role, pace, and preferences, delivering real-time feedback and creating a more engaging, effective experience.</p>
+                    <p>Move beyond one-size-fits-all learning. Atmans AI avatars customize training to each employee’s role, pace, and preferences, delivering real-time feedback and creating a more engaging, effective experience.</p>
                 </div>
             </div>
         </div>
@@ -97,7 +97,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12 hyper_personalized_box_row">
                 <div className="hyper_personalized_box">
                     <h1>Ongoing Skill Coaching</h1>
-                    <p>Keep development continuous. Atman's avatars act as on-demand coaches, guiding employees through personalized learning journeys and tracking progress over time, from technical mastery to soft-skill growth.</p>
+                    <p>Keep development continuous. Atmans avatars act as on-demand coaches, guiding employees through personalized learning journeys and tracking progress over time, from technical mastery to soft-skill growth.</p>
                 </div>
             </div>
         </div>
@@ -206,7 +206,7 @@ export default function Home() {
         <div className="transofrm_the_way_box">
           <h2> <span>Transform</span><br/>the Way You Train</h2>
           <div className="future_proof_box">
-            <p>Future-proof your workforce with Atman's AI-powered training. Make learning more human, more intelligent, and more impactful.</p>
+            <p>Future-proof your workforce with Atmans AI-powered training. Make learning more human, more intelligent, and more impactful.</p>
             <button className="request_btn">Contact Us</button>
           </div>
         </div>
