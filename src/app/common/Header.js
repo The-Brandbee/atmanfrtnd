@@ -49,7 +49,7 @@ function IndexPage() {
                     <Link className="nav-link" href="/pricing">PRICING</Link>    
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" href="#">TRAINING</a>
+                    <a className="nav-link" href="/training">TRAINING</a>
                   </li>
                 </ul>
               </div>

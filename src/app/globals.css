@@ -1394,7 +1394,347 @@ position: relative;
 }
 
 
+
+/* CSS Akshay 22 May 2025 */
+
+.training_robot_radong_book_sec{
+    padding:120px 0px;
+    background-image:url("../app/img/robot-reading-book.png");
+    background-size: 100% 100%;
+    /* font-family: PlusJakartaSans-Regular; */
+    padding-top:120px
+}
+.training_robot_radong_book_sec h2{
+    color:white;
+    font-weight: 400;
+    font-size:50px;
+    margin-bottom: 40px;
+}
+.personalised_box_training{
+    padding-left: 30px;
+}
+.personalised_box_training h4 {
+    color: #3399FF !important;
+    margin-bottom: 20px;
+    font-size: 29px;
+}
+.personalised_box_training p {
+    color:white;
+}
+.one_training_box{
+    color:white;
+}
+.traing_why_choose_atman_secttion{
+    position: relative;
+    padding:80px 0px !important;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+    color: white !important;
+    overflow: hidden;
+}
+.train_why_choose_atmna_box h2 {
+    font-size: 44px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+.adaptive_box img{
+    height:50px !important;
+}
+.why_atmna_bocxes {
+    padding: 10px 20px;
+}
+.adaptive_box {
+    display: flex;
+    padding: 0px 20px;
+}
+.adaptive_box p {
+    padding-left: 20px;
+}
+.adaptive_second_row{
+    padding-top: 80px;
+}
+.traing_why_choose_atman_secttion::before {
+    position: absolute;
+    content: "";
+    display: block;
+    width: 55%;
+    height: 400px;
+    background-image: url('../app/img/why-train-atmen_img.png');
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    top: 6%;
+    left: 60%;
+}
+.training_transform_the_wy_section{
+    padding:90px 0px;
+    background-image: url('../app/img/transform-brain.png');
+    background-size: 100% 100%;
+}
+.transofrm_the_way_box h2 {
+    color: white;
+    font-size: 54px;
+    font-weight: 300;
+    margin-bottom: 45px;
+}
+.transofrm_the_way_box span{
+    color: #3399FF;
+}
+.future_proof_box{
+    padding-left: 50px;
+}
+.future_proof_box p{
+    margin-bottom: 50px;
+    color: white;
+}
+.atman_faq_page_section{
+    padding:80px 0px;
+    background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+    padding-top:150px;
+}
+.atman_ten_faq_box h2{
+    color: white;
+    font-size: 53px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.atman_ten_faq_box h2 span{
+    color: #3399FF;
+}
+.your_quesion_box{
+    padding:20px;
+
+}
+.your_quesion_box h2
+ {
+    color: #3399ff;
+    font-size: 37px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.your_quesion_box p {
+    color:#E3E1EB;
+    margin-bottom: 20px;
+}
+
+
+
+ .faq_page_container {
+      margin-top: 40px;
+    }
+.faq_page_container .accordion__item{
+    border: 2px solid #3399FF;
+     padding: 20px;
+     margin-bottom: 35px;
+        border-radius: 8px;
+}
+    .faq_page_container .accordion__button {
+    border: 0px solid #3399FF;
+ 
+    
+    padding: 0px;
+    position: relative;
+    cursor: pointer;
+    transition: background 0.3s;
+    background: transparent !important;
+        color: #3399FF;
+    font-weight: bold;
+}
+.faq_page_container .accordion__item + .accordion__item {
+    border-top: 2px solid #3399FF;
+}
+.faq_page_container .accordion__panel{
+    padding-bottom: 0px;
+    color: #fff;
+    padding-left: 0px;
+}
+.faq_page_container .accordion__button:before{
+    float: right;
+}
+    .faq_page_question {
+      color: #3399FF;
+      font-weight: bold;
+    }
+
+    .faq_page_answer {
+      display: none;
+      color: #ddd;
+      margin-top: 10px;
+      line-height: 1.5;
+      font-size: 14px;
+    }
+
+    .faq_page_item.active .faq_page_answer {
+      display: block;
+    }
+
+    .faq_page_arrow {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px  ;
+  transition: transform 0.3s ease, top 0.3s ease;
+}
+
+.faq_page_item.active .faq_page_arrow {
+  top: auto;
+  bottom: 20px;
+  transform: rotate(180deg);
+}
+
+.ai_powered_digital_atman{
+    padding:60px 0px;
+    padding-top:150px;
+    background: transparent linear-gradient(166deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.ai_powered_digital_atman_box h2 {
+    color: white;
+    font-size: 58px;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+.ai_powered_digital_atman_box h2 span{
+    color: #3399FF;
+}
+.bring_your_brand_box{
+    padding:10px 0px;
+    padding-left:40px;
+}
+.bring_your_brand_box h4 {
+    color: #3399ff;
+    font-size: 33px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+.bring_your_brand_box p {
+    color: white;
+}
+.atman_video_what_we_offer_sec{
+    padding:80px 0px;
+    background: transparent linear-gradient(173deg, #000000 0%, #161649 100%) 0% 0% no-repeat padding-box;
+}
+.atman_video_what_we_offer_box h2 {
+    font-weight: 300;
+    margin-bottom: 25px;
+    color:white
+}
+.what_we_offer_atman_img_box img{
+    width: 100%  !important;
+}
+.atman_what_we_offer_pointer_box h6 {
+    color: #3399FF;
+    margin-bottom: 20px;
+    position: relative
+}
+
+.atman_what_we_offer_pointer_box {
+    padding: 20px 50px
+}
+
+.atman_what_we_offer_pointer_box p {
+    font-size: 13px;
+    color: white;
+}
+
+.atman_what_we_offer_pointer_box h6:before {
+    content: "";
+    display: block;
+    width: 22px;
+    height: 22px;
+    background-image: url(https://main-atmansai.vercel.app/_next/static/media/accept_4315445.f8df89cb.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    top: 0!important;
+    left: -32px!important;
+    position: absolute
+}
+.what_we_offer_atman_point_box{
+    padding-top:25px
+}
+.atman_video_what_we_offer_box h2 span {
+    color: #3399ff;
+}
+.atman_what_we_offer_2{
+    padding-bottom: 50px;
+}
+.atman_use_cases_section{
+    padding:60px 0px;
+    background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
+}
+
+.atman_use_cases_box h2{
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+    margin-bottom: 35px;
+}
+.atman_use_training_box{
+    padding-left:35px;
+    color:white
+}
+.atman_use_training_box h4 {
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: 22px;
+}
+.atman_use_cases_img_box img{
+    width:100% 
+}
+.ai_powered_human_exprienece_section {
+    color: white;
+    padding: 60px 0px;
+    background-image: url('../app/img/Atman-img@2x.png');
+    background-size: 100% 100%;
+}
+.ai_human_exprienece_box h2 {
+    font-size: 51px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 64px;
+    padding-right: 110px;
+}
+.ai_human_exprienece_box h2 span{
+    color: #3399FF;
+}
+.ready_to_elevate_box h6{
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+.ready_to_elevate_box {
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+
 @media all and (min-width:120px) and (max-width:620px){
+    .row-rever{
+        flex-direction: column-reverse;
+    }
+    .ai_powered_human_exprienece_section{
+          background-size: cover;
+    }
+    .ai_human_exprienece_box h2 br{
+        display: none;
+    }
+   .traing_why_choose_atman_secttion::before{
+    display: none;
+   }
+   .adaptive_box {
+    margin-bottom: 30px;
+}
+.adaptive_second_row {
+    padding-top: 0px;
+}
+.training_transform_the_wy_section{
+    background-size: cover;
+}
+    .training_robot_radong_book_sec{
+        background-size: cover;
+    }
     .nine_contaxt_us_box h1 {
         font-size: 42px;
         font-weight: 400;
