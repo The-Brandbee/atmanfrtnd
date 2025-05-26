@@ -134,7 +134,7 @@ export default function Home() {
                     <h3>Starter</h3>
                     <h1>$4500 <span>/ month</span></h1>
                     <p><b>For experimentation</b></p>
-                    <p className="basic_for_indivial_para">For individuals who want to experience the power of Digital Humans</p>
+                    <p className="basic_for_indivial_para nonenone">For individuals who want to experience the power of Digital Humans</p>
                     <ul>
                     <li>8 hours fractional vCAIO</li>
                         <li>AI Framework development</li>
@@ -166,7 +166,7 @@ export default function Home() {
                 <div className="atman_six_basic_plan_box">
                     <h3>Enterprise </h3>
                    
-                    <h1>custom $ </h1>
+                    <h1 className="custom">custom $ </h1>
                     <p className="nonenone"><b>For scaling</b></p>
                     <ul className="nonenone">
                         <li>Unlimited AI Avatar Options / Make your own Avatar</li>

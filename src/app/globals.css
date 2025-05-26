@@ -1711,7 +1711,9 @@ position: relative;
 .nonenone{
     display: none;
 }
-
+.custom{
+        margin-top: 70px;
+}
 @media all and (min-width:120px) and (max-width:620px){
     .row-rever{
         flex-direction: column-reverse;
