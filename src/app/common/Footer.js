@@ -97,12 +97,7 @@ function IndexPage() {
                                         <li className="foot-item">
                                     <a href="/faqs" className="foot-links">FAQs</a>
                                 </li>
-                                <li className="foot-item">
-                                    <Link href="#" className="foot-links">Affiliate</Link>
-                                </li>
-                                <li className="foot-item">
-                                    <Link href="#" className="foot-links">Partners</Link>
-                                </li>
+                               
                              </ul>
                         </div>
                     </div>
