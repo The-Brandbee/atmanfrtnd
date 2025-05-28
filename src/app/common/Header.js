@@ -61,10 +61,12 @@ function IndexPage() {
             <ul className="nav">
              
               <li className="login-liks">
-                <a className="login-link" href="/contact-us">Contact Sales</a>
+             <Link className="login-link" href="/contact-us">Contact Sales</Link> 
               </li>
               <li className="login-liks">
+                <Link href="/contact-us">
                 <button className="Request-a-Demo" href="/contact-us">Request A Demo</button>
+                </Link>
               </li>
             </ul>
           </div>

@@ -35,9 +35,8 @@ function IndexPage() {
                                 <p className="touch_text">Keep in touch</p>
                                 <ul className="d-flex">
                                     <li className="social_link">
-                                        <a href="#">
-                                           
-                                            <Image src={instagram} alt="" />
+                                        <a target="_blank" href="https://www.instagram.com/atman.ai_/?igsh=dXplb2dib3hkMnE%3D#">
+                                          <Image src={instagram} alt="" />
                                         </a>
                                     </li>
                                     <li className="social_link">
