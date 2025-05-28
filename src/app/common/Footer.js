@@ -75,7 +75,7 @@ function IndexPage() {
                             <h6 className="quick_head">FEATURES</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">AI Avatars</Link>
+                                    <Link href="/ai-avatars" className="foot-links">AI Avatars</Link>
                                 </li>
                                 <li className="foot-item">
                                     <Link href="/text-to-video" className="foot-links">Text-to-Video</Link>

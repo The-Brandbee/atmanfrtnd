@@ -1682,6 +1682,9 @@ position: relative;
 .atman_use_cases_img_box img{
     width:100% 
 }
+.ai_powered_human_exprienece_section.new{
+    background-image: url('../app/img/video-streaming-internet-conceptbusinesswoman-watching-online-movie-tv-series-modern-computer@2x.png');
+}
 .ai_powered_human_exprienece_section {
     color: white;
     padding: 60px 0px;
