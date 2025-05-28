@@ -16,6 +16,39 @@ p{
 p{
     font-size: 14px;
 }
+.contact-us-frm{
+    padding: 30px;
+    border: 10px !important;
+}
+.contact-us-frm label{
+    display: block;
+    color: #000;
+    margin-top: 20px;
+}
+.contact-us-frm input{
+    background: #f5f8fa;
+    width: 100%;
+}
+.contact-us-frm textarea{
+   background: #f5f8fa;
+    width: 100%;  
+}
+.contact-us-frm button{
+    border: 0;
+    color: white;
+    border-radius: 20px;
+    padding: 7px 10px;
+    font-size: 14px;
+    background: transparent linear-gradient(90deg, #333399, #3399FF) 0 0 no-repeat padding-box;
+    width: 110px !important;
+        margin-top: 20px;
+}
+.contact-us-frm .text-green-600{
+    color: green;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
 .links-box ul{
     padding-left: 0px;
 }
@@ -1093,11 +1126,13 @@ height: 100% !important;
     margin-top: 5%;  
 }
 .cder-ca-slide .react-multiple-carousel__arrow--right{      
+    display: none;
     bottom: 15%; 
     right: 10%;
     background: transparent linear-gradient(90deg, #333399 0%, #3399FF 100%) 0% 0% no-repeat padding-box;
 }
 .cder-ca-slide .react-multiple-carousel__arrow--left{ 
+      display: none;
     bottom: 15%; 
     right: 15%;
     left: auto;
@@ -1547,8 +1582,20 @@ position: relative;
     color: #fff;
     padding-left: 0px;
 }
+.white{
+    color: #fff;
+}
 .faq_page_container .accordion__button:before{
     float: right;
+    background: url(../app/img/arrow-1.png);
+    height: 30px;
+    width: 30px;
+    border: 0px;
+    transform: rotate(0deg);
+    background-size: cover;
+}
+.faq_page_container .accordion__button[aria-expanded='true']::before, .accordion__button[aria-selected='true']::before {
+    transform: rotate(180deg);
 }
     .faq_page_question {
       color: #3399FF;

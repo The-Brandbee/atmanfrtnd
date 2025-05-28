@@ -55,37 +55,122 @@ export default function Home() {
             <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                       Q1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      How can Atmans AI avatars improve employee onboarding and training?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit libero, auctor nec lacinia a, vulputate in leo. Morbi massa ipsum, vehicula at vulputate non, ultrices ac metus. Vivamus viverra ultricies ornare. Aliquam lobortis turpis quis velit scelerisque cursus. Aliquam suscipit iaculis sem, eu mollis massa vestibulum sit amet. Nunc quis dolor dapibus, porta ex eu, congue eros. Nulla placerat sit amet leo consectetur bibendum. Quisque sed sem non mauris dapibus pharetra finibus sed augue. Vestibulum feugiat commodo massa eu luctus. Mauris congue non nibh eu pharetra. Quisque dictum porttitor quam, sed commodo enim bibendum vitae. Mauris vulputate mauris vel nulla molestie, non rutrum ante vestibulum. Nullam at dui vel sapien accumsan mattis vel at tellus.
-                    </p>
+                       Atman avatars walk new hires through company processes, simulate real-world tasks, and provide instant feedback, helping speed up onboarding and improve retention through AI-personalized learning paths.
+                         </p>
                 </AccordionItemPanel>
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                        Q2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      In what ways can digital humans enhance B2B sales training?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit libero, auctor nec lacinia a, vulputate in leo. Morbi massa ipsum, vehicula at vulputate non, ultrices ac metus. Vivamus viverra ultricies ornare. Aliquam lobortis turpis quis velit scelerisque cursus. Aliquam suscipit iaculis sem, eu mollis massa vestibulum sit amet. Nunc quis dolor dapibus, porta ex eu, congue eros. Nulla placerat sit amet leo consectetur bibendum. Quisque sed sem non mauris dapibus pharetra finibus sed augue. Vestibulum feugiat commodo massa eu luctus. Mauris congue non nibh eu pharetra. Quisque dictum porttitor quam, sed commodo enim bibendum vitae. Mauris vulputate mauris vel nulla molestie, non rutrum ante vestibulum. Nullam at dui vel sapien accumsan mattis vel at tellus.
+                    They simulate live sales scenarios, act as mock clients, and coach teams in pitching, objection handling, and negotiation, creating an immersive, low-risk environment for skill-building.
                     </p>
                 </AccordionItemPanel>
             </AccordionItem>
-              <AccordionItem>
+             
+                 <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                        Q3. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                   How do Atman avatars support marketing beyond just customer interaction?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elit libero, auctor nec lacinia a, vulputate in leo. Morbi massa ipsum, vehicula at vulputate non, ultrices ac metus. Vivamus viverra ultricies ornare. Aliquam lobortis turpis quis velit scelerisque cursus. Aliquam suscipit iaculis sem, eu mollis massa vestibulum sit amet. Nunc quis dolor dapibus, porta ex eu, congue eros. Nulla placerat sit amet leo consectetur bibendum. Quisque sed sem non mauris dapibus pharetra finibus sed augue. Vestibulum feugiat commodo massa eu luctus. Mauris congue non nibh eu pharetra. Quisque dictum porttitor quam, sed commodo enim bibendum vitae. Mauris vulputate mauris vel nulla molestie, non rutrum ante vestibulum. Nullam at dui vel sapien accumsan mattis vel at tellus.
-                    </p>  
+                They can host product launches, lead webinars, and deliver personalized content. As brand representatives, they create emotional resonance and consistency across digital campaigns and virtual events.
+                 </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                  Whats the advantage of Atmans text-to-video feature for content teams?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+               You can turn simple scripts into high-quality, avatar-led videos in minutes—ideal for product demos, training content, or social posts. No filming crew or editing software required.
+                </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                   Can the text-to-video tool support different languages and tones?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+                Yes. Atmans text-to-video platform supports multilingual scripts, various tones, and facial expressions, making it easy to create culturally adapted, emotionally resonant content at scale.
+                 </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                How does Atman ensure learning personalization in training modules?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+                AI analyzes performance data in real-time, adjusting explanations, pacing, and module difficulty. This ensures each learner receives content that suits their current skill level and learning style.
+                 </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                   Can marketing teams use Atman avatars for live engagement?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+                Absolutely. Digital humans can host live Q&As, moderate product demos, or interact with website visitors in real-time, offering a hybrid of live performance and AI-driven responsiveness.
+                 </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                   How scalable are Atmans solutions for enterprise-level use?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+                Atman is designed for scale. Whether training thousands of employees or engaging global customers, our AI infrastructure ensures consistent performance and content delivery across regions and time zones.
+                 </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                  Are Atmans avatars customizable to match brand identity?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+               Yes. Businesses can customize avatar appearance, voice, language, and behavior to reflect brand tone, making them a seamless extension of your company’s visual and verbal identity.
+                </p>  
+                </AccordionItemPanel>
+            </AccordionItem>
+                       <AccordionItem>
+                <AccordionItemHeading>
+                    <AccordionItemButton>
+                    What analytics does Atman provide to track training or campaign success?
+                    </AccordionItemButton>
+                </AccordionItemHeading>
+                <AccordionItemPanel>
+                    <p>
+              Atman offers real-time data on learner progress, content effectiveness, audience engagement, and behavioral trends—helping you refine strategies and demonstrate ROI across use cases.
+              </p>  
                 </AccordionItemPanel>
             </AccordionItem>
         </Accordion>

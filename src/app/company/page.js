@@ -150,7 +150,9 @@ export default function Home() {
             </div>
             <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="atman_five_set_btn_box text-center">
-                    <button className="learn_more_btn">Learn More</button>
+                     <a href="/contact-us">
+                    <button className="learn_more_btn">Request A Demo</button>
+                    </a>
                 </div>
             </div>
         </div>

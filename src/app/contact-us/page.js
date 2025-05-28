@@ -4,7 +4,7 @@ import Image from "next/image";
 import Head from "next/head";
 import Link from "next/link";
 import Header from "../common/Header.js";
-import Contactus from "../common/contactus.js";
+import Contactus from "../common/ContactForm.js";
 import Footer from "../common/Footer.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Montserrat } from "next/font/google";

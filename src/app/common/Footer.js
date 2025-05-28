@@ -23,8 +23,9 @@ function IndexPage() {
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div>
                     <div className="row footer_input-main-frame">
+                         <h6 className="quick_head white">Stay Connected</h6>
                         <div className="col-lg-9 col-md-9 col-sm-9 col-9">
-                            <input type="text" className="footer_input"/>
+                            <input type="text" className="footer_input" placeholder="Email"/>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-3 col-3">
                             <button className="request_btn" >Submit</button>
@@ -64,10 +65,10 @@ function IndexPage() {
                             <h6 className="quick_head">USE-CASES</h6>
                              <ul className="">
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">Training & Development</Link>
+                                    <Link href="/use-cases#Training-and-Development" className="foot-links">Training & Development</Link>
                                 </li>
                                 <li className="foot-item">
-                                    <Link href="#" className="foot-links">Sales & Marketing</Link>
+                                    <Link href="/use-cases#Sales-Marketing" className="foot-links">Sales & Marketing</Link>
                                 </li>
                              </ul>
                         </div>

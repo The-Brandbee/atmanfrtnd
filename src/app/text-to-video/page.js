@@ -10,7 +10,7 @@ import { Montserrat } from "next/font/google";
 import Script from "next/script";
 import shutterstockOne from "../img/shutterstock_2464103061.png";
 import hours from "../img/24-hours.png";
-import Xne from "../img/_x32_1.png";
+import Banner from "../img/Group59@2x.png";
 
 import futuristictechnology from "../img/futuristic-technology-use-case@2x.png";
 import GroupNNN from "../img/Group 52@2x.png";
@@ -41,8 +41,7 @@ export default function Home() {
                 </div>
             </div>
               <div className="col-lg-6 col-md-6 col-sm-12">
-        <iframe width="100%" height="300" src="https://www.youtube.com/embed/DZLlw5BNQ3g" title="Artificial Intelligence, AI Stock Footage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                </iframe> 
+       <Image src={Banner} className="w-100" alt=""/>
                 </div>
         </div>
     </div>
@@ -185,7 +184,9 @@ export default function Home() {
                         <h6>Ready to elevate your business with Atmans Digital Humans?</h6>
                         <p>Get in touch today to explore endless possibilities.</p>
                      </div>
+                     <a href="/contact-us">
                   <button className="request_btn" >Contact Us</button>   
+                  </a>
                </div>
          </div>
       </div>

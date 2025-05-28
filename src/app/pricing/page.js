@@ -200,7 +200,9 @@ export default function Home() {
                 <div className="atmna_six_get_rady_box">
                     <h1>Ready to Get Started for <span>FREE?</span></h1>
                     <p>Learn how GenAI can drive value for your clients and your business for Free</p>
-                    <button className="get_btn_ready">Sign Up</button>
+                           <a href="/contact-us">
+                    <button className="learn_more_btn">Request A Demo</button>
+                    </a>
                 </div>
             </div>
         </div>

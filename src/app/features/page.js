@@ -377,7 +377,9 @@ export default function Home() {
                 <div className="train_todaY_tomorrow_box">
                     <h1>Train Today, Perform Tomorrow</h1>
                     <p>Atmans digital humans are ready to learn and grow with your business. Start training your digital human <br/> today and unlock a new level of operational efficiency and intelligence.</p>
-                    <button className="learn_more_btn">Learn More</button>
+                          <a href="/contact-us">
+                    <button className="learn_more_btn">Request A Demo</button>
+                    </a>
                 </div>
             </div>
         </div>

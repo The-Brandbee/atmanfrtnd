@@ -48,10 +48,10 @@ export default function Home() {
 </section>
 
 
-<section className="seven_trainning_dev_sec">
+<section className="seven_trainning_dev_sec" >
     <div className="container">
         <div className="row">
-            <div className="col-lg-12 col-md-12 col-sm-12">
+            <div className="col-lg-12 col-md-12 col-sm-12" id="Training-and-Development">
                 <div className="seven_training_development_box">
                     <h2>Training and Development</h2>
                     <p>Revolutionize workforce learning with intelligent virtual trainers.</p>
@@ -88,7 +88,7 @@ export default function Home() {
                 </div>
             </div>
         </div>
-        <div className="row marketing_and_customer_row">
+        <div className="row marketing_and_customer_row" id="Sales-Marketing">
             <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="seven_training_development_box">
                     <h2>Marketing and Customer Experience</h2>
@@ -144,7 +144,9 @@ export default function Home() {
                     <h1>Ready to  <span>Transform</span> Your Business?</h1>
                     <p>Atmans digital humans are not just tools—theyre strategic assets that drive growth and innovation. Whether youre training your workforce or enhancing customer experiences, these versatile AI-powered solutions adapt to your business needs.</p>
                     <h6>Lets create your success story.</h6>
-                    <button className="rewust_btnnn">Request a Demo</button> 
+                       <a href="/contact-us">
+                    <button className="learn_more_btn">Request A Demo</button>
+                    </a>
                 </div>
             </div>
         </div>

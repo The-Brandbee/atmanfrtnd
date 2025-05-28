@@ -12,7 +12,7 @@ import Script from "next/script";
 import shutterstockOne from "../app/img/shutterstock_2464103061.png";
 import shutterstock2403485771 from "../app/img/shutterstock_2403485771.png";
 import shutterstock2455853761 from "../app/img/shutterstock_2455853761.png";
-
+import Banner from "../app/img/Group7@2x.png";
 import dOne from "../app/img/3d-3.png";
 import Dtwo from "../app/img/3d-2.png";
 import Dthree from "../app/img/3d-1.png";
@@ -100,11 +100,11 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-12 col-md-12 col-sm-12">
+                {/* <div className="col-lg-12 col-md-12 col-sm-12">
                     <div className="button_col">
                         <button className="learn_more_btn">Learn More</button>
                     </div>
-                </div>
+                </div> */}
 
             </div>
         </div>
@@ -114,13 +114,15 @@ export default function Home() {
 <section className="digital_partner_sec">
     <div className="container">
         <div className="row digital_partner_row_1">
-            <div className="col-lg-6 col-md-6 col-sm-12">
+            <div className="col-lg-5 col-md-5 col-sm-12">
                 <div className="Meet-Your-AI-Powered">
-                <iframe width="100%" height="300" src="https://www.youtube.com/embed/DZLlw5BNQ3g" title="Artificial Intelligence, AI Stock Footage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                </iframe> 
+               <Image src={Banner} alt="" className="w-100" />
                 </div>
             </div>
-            <div className="col-lg-5 col-md-5 col-sm-12 digital_partner_col_2">
+              <div className="col-lg-1 col-md-1">
+
+              </div>
+            <div className="col-lg-6 col-md-6 col-sm-12 digital_partner_col_2">
                 <div className="digital_partner_col_box">
                     <h3 className="ai_powered_headeing">Meet Your AI-Powered</h3>     
                     <h3 className="ai_powered_headeing2"> Digital Partners!</h3>
@@ -134,7 +136,9 @@ export default function Home() {
                 <div className="try_box">
                     <h4>Try Our 6 Digital Humans</h4>
                     <p>Explore the full potential of Atmans digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations, providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
-                        <button className="learn_more_btn">Request a Demo</button>
+                        <a href="/contact-us">
+                    <button className="learn_more_btn">Request A Demo</button>
+                    </a>
                 </div>
             </div>
             <div className="col-lg-8 col-md-8 col-sm-12">

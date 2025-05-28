@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Montserrat } from "next/font/google";
 import Script from "next/script";
 import shutterstockOne from "../img/shutterstock_2464103061.png";
-import hours from "../img/24-hours.png";
+import Banner from "../img/Group58@2x.png";
 import Xne from "../img/_x32_1.png";
 
 import futuristictechnology from "../img/hands-holding-smartphone-social-media-concept@2x.png";
@@ -41,8 +41,7 @@ export default function Home() {
                 </div>
             </div>
               <div className="col-lg-6 col-md-6 col-sm-12">
-        <iframe width="100%" height="300" src="https://www.youtube.com/embed/DZLlw5BNQ3g" title="Artificial Intelligence, AI Stock Footage Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                </iframe> 
+                   <Image src={Banner} className="w-100" alt=""/>
                 </div>
         </div>
     </div>

@@ -41,7 +41,7 @@ export default function TestimonialSlide() {
       <Carousel
         infinite={true}
         autoPlay={true}
-        autoPlaySpeed={2000}
+        autoPlaySpeed={20020}
         responsive={responsive}
       >
         
@@ -53,23 +53,12 @@ export default function TestimonialSlide() {
             <div className="ma-slider-new-frame-inner-two-right">
                    <h2><span>All-in-One</span> AI <br/>Business Solution</h2>
                    <p>Streamline operations and drive growth with integrated AI-powered tools for every business need.</p>
-                   <p><a href="">Get Started</a></p>
+                   <p><a href="/text-to-video">Get Started</a></p> 
             </div>
              </div>
            </div>
            
-           <div>
-           <div className="ma-slider-new-frame-inner">
-           <div className="ma-slider-new-frame-inner-two-left">
-             <Image src={shutterstockOne} alt="" className="w-100" />
-            </div>
-            <div className="ma-slider-new-frame-inner-two-right">
-                   <h2><span>All-in-One</span> AI <br/>Business Solution</h2>
-                   <p>Streamline operations and drive growth with integrated AI-powered tools for every business need.</p>
-                   <p><a href="">Get Started</a></p>
-            </div>
-             </div>
-           </div>
+         
          
       
       </Carousel>

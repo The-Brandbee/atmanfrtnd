@@ -207,7 +207,9 @@ export default function Home() {
           <h2> <span>Transform</span><br/>the Way You Train</h2>
           <div className="future_proof_box">
             <p>Future-proof your workforce with Atmans AI-powered training. Make learning more human, more intelligent, and more impactful.</p>
-            <button className="request_btn">Contact Us</button>
+               <a href="/contact-us">
+                  <button className="request_btn" >Contact Us</button>   
+                  </a>    
           </div>
         </div>
       </div>
