@@ -5,7 +5,7 @@ import Script from "next/script";
 import Logo from "../img/Layer_1.svg";
 import instagram from "../img/instagram_1400829.svg";
 import facebook from "../img/facebook_733603.svg";
-import Layer from "../img/Layer-2.svg";
+import Layer from "../img/Group60.svg"; 
 function IndexPage() {
   return (
     <footer>
@@ -46,7 +46,7 @@ function IndexPage() {
                                         </a>
                                     </li>
                                     <li className="social_link">
-                                        <a href="#">
+                                        <a target="_blank" href="https://www.youtube.com/@atman.ai2025">
                                          
                                             <Image src={Layer} alt=""  />
                                         </a>
