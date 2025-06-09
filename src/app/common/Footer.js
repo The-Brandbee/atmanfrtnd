@@ -6,6 +6,8 @@ import Logo from "../img/Layer_1.svg";
 import instagram from "../img/instagram_1400829.svg";
 import facebook from "../img/facebook_733603.svg";
 import Layer from "../img/Group60.svg"; 
+import NewsletterForm from '../common/NewsletterForm.js';
+
 function IndexPage() {
   return (
     <footer>
@@ -24,12 +26,9 @@ function IndexPage() {
                 <div>
                     <div className="row footer_input-main-frame">
                          <h6 className="quick_head white">Stay Connected</h6>
-                        <div className="col-lg-9 col-md-9 col-sm-9 col-9">
-                            <input type="text" className="footer_input" placeholder="Email"/>
-                        </div>
-                        <div className="col-lg-3 col-md-3 col-sm-3 col-3">
-                            <button className="request_btn" >Submit</button>
-                        </div>
+                       
+                      
+                        <NewsletterForm/>
                         <div className="col-lg-12 col-md-12 col-sm-12">
                             <div className="touch_box">
                                 <p className="touch_text">Keep in touch</p>

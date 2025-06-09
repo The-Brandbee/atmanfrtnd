@@ -6,7 +6,10 @@
     font-family: PlusJakartaSans-Bold; 
     src: url('../app//fonts/PlusJakartaSans-Bold.ttf') format('truetype');   
 }
-
+.mt-2.text-green-600.white{
+    font-size: 14px;
+    color: #3399ff;
+}
 body{
     font-family: PlusJakartaSans-Regular;   
 }
