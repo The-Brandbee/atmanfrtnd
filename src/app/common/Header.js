@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "../img/logo_header.svg"; 
+import Logo from "../img/Asset5@300x.png"; 
 import HeaderMobileIn from "../common/HeaderMobile.js";
 
 
@@ -16,7 +16,7 @@ function IndexPage() {
           <div className="col-6 col-sm-4 col-md-2">
             <div className="logo-box">
              <Link href="/">
-              <Image src={Logo} alt="" />
+              <Image src={Logo} alt="" width={243} />
               </Link>
             </div>
           </div>
