@@ -55,12 +55,12 @@ export default function Home() {
             <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                      How can Atmans AI avatars improve employee onboarding and training?
+                      How can Atmaya AI avatars improve employee onboarding and training?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                       Atman avatars walk new hires through company processes, simulate real-world tasks, and provide instant feedback, helping speed up onboarding and improve retention through AI-personalized learning paths.
+                       Atmaya avatars walk new hires through company processes, simulate real-world tasks, and provide instant feedback, helping speed up onboarding and improve retention through AI-personalized learning paths.
                          </p>
                 </AccordionItemPanel>
             </AccordionItem>
@@ -80,7 +80,7 @@ export default function Home() {
                  <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                   How do Atman avatars support marketing beyond just customer interaction?
+                   How do Atmaya avatars support marketing beyond just customer interaction?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -92,7 +92,7 @@ export default function Home() {
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                  Whats the advantage of Atmans text-to-video feature for content teams?
+                  Whats the advantage of Atmaya text-to-video feature for content teams?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -109,14 +109,14 @@ export default function Home() {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                Yes. Atmans text-to-video platform supports multilingual scripts, various tones, and facial expressions, making it easy to create culturally adapted, emotionally resonant content at scale.
+                Yes. Atmaya text-to-video platform supports multilingual scripts, various tones, and facial expressions, making it easy to create culturally adapted, emotionally resonant content at scale.
                  </p>  
                 </AccordionItemPanel>
             </AccordionItem>
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                How does Atman ensure learning personalization in training modules?
+                How does Atmaya ensure learning personalization in training modules?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -128,7 +128,7 @@ export default function Home() {
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                   Can marketing teams use Atman avatars for live engagement?
+                   Can marketing teams use Atmaya avatars for live engagement?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -140,19 +140,19 @@ export default function Home() {
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                   How scalable are Atmans solutions for enterprise-level use?
+                   How scalable are Atmaya solutions for enterprise-level use?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-                Atman is designed for scale. Whether training thousands of employees or engaging global customers, our AI infrastructure ensures consistent performance and content delivery across regions and time zones.
+                Atmaya is designed for scale. Whether training thousands of employees or engaging global customers, our AI infrastructure ensures consistent performance and content delivery across regions and time zones.
                  </p>  
                 </AccordionItemPanel>
             </AccordionItem>
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                  Are Atmans avatars customizable to match brand identity?
+                  Are Atmaya avatars customizable to match brand identity?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -164,12 +164,12 @@ export default function Home() {
                        <AccordionItem>
                 <AccordionItemHeading>
                     <AccordionItemButton>
-                    What analytics does Atman provide to track training or campaign success?
+                    What analytics does Atmaya provide to track training or campaign success?
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                     <p>
-              Atman offers real-time data on learner progress, content effectiveness, audience engagement, and behavioral trends—helping you refine strategies and demonstrate ROI across use cases.
+              Atmaya offers real-time data on learner progress, content effectiveness, audience engagement, and behavioral trends—helping you refine strategies and demonstrate ROI across use cases.
               </p>  
                 </AccordionItemPanel>
             </AccordionItem>

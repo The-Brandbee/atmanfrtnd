@@ -41,12 +41,12 @@ export default function Home() {
         <div className="row what_can_atman_row">
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="what_can_atman_box">
-                    <h1>What Can <span>Atman</span> <br/> Do for You?</h1>
+                    <h1>What Can <span>Atmaya</span> <br/> Do for You?</h1>
                 </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12 what_can_atman_para_col">
                 <div className="what_can_atman_para">
-                    <p>Atman brings the power of AI-Powered digital humans to your business. These advanced solutions are designed to assist, streamline, and elevate your operations, helping you stay ahead in an ever-evolving market. Whether its optimizing internal workflows or enhancing external communication, Atman adapts to your needs and delivers measurable outcomes.</p>
+                    <p>Atmaya brings the power of AI-Powered digital humans to your business. These advanced solutions are designed to assist, streamline, and elevate your operations, helping you stay ahead in an ever-evolving market. Whether its optimizing internal workflows or enhancing external communication, Atmaya adapts to your needs and delivers measurable outcomes.</p>
                 </div>
             </div>
         </div>
@@ -225,7 +225,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="train_digital_human_boxx">
                     <h1>Train <span>Digital Humans</span> to Meet Your Business Needs</h1>
-                    <p>Atmans digital humans are not pre-programmed one-size-fits-all solutions - theyre dynamic AI-powered avatars that you can train to handle specific business tasks. Designed for flexibility and scalability, these digital humans learn and adapt to your processes, ensuring they align perfectly with your business goals.</p>
+                    <p>Atmaya digital humans are not pre-programmed one-size-fits-all solutions - theyre dynamic AI-powered avatars that you can train to handle specific business tasks. Designed for flexibility and scalability, these digital humans learn and adapt to your processes, ensuring they align perfectly with your business goals.</p>
                 </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
@@ -245,7 +245,7 @@ export default function Home() {
             <div className="col-lg-7 col-md-7 col-sm-12">
                 <div className="what_you_train_box">
                     <h1>What You Can Train <span> Digital Humans</span> To Do</h1>
-                    <p>Atmans digital humans are not pre-programmed one-size-fits-all solutions - theyre dynamic AI-powered avatars that you can train to handle specific business tasks. Designed for flexibility and scalability, these digital humans learn and adapt to your processes, ensuring they align perfectly with your business goals.</p>
+                    <p>Atmaya digital humans are not pre-programmed one-size-fits-all solutions - theyre dynamic AI-powered avatars that you can train to handle specific business tasks. Designed for flexibility and scalability, these digital humans learn and adapt to your processes, ensuring they align perfectly with your business goals.</p>
                 </div>
             </div>
             <div className="col-lg-5 col-md-5 col-sm-12">
@@ -319,7 +319,7 @@ export default function Home() {
                 <div className="atman_four_step_box">
                     <h2>Step 3</h2>
                     <h6>Fine-Tune and Monitor</h6>
-                    <p>Collaborate with Atmans AI specialists to fine-tune your digital humas performance. Once trained, monitor their efficiency and make necessary adjustments to ensure optimal alignment with your needs.</p>
+                    <p>Collaborate with Atmaya AI specialists to fine-tune your digital humas performance. Once trained, monitor their efficiency and make necessary adjustments to ensure optimal alignment with your needs.</p>
                 </div>
             </div>
         </div>
@@ -376,7 +376,7 @@ export default function Home() {
             <div className="col-lg-12 col-md-12 col-sm-12">
                 <div className="train_todaY_tomorrow_box">
                     <h1>Train Today, Perform Tomorrow</h1>
-                    <p>Atmans digital humans are ready to learn and grow with your business. Start training your digital human <br/> today and unlock a new level of operational efficiency and intelligence.</p>
+                    <p>Atmaya digital humans are ready to learn and grow with your business. Start training your digital human <br/> today and unlock a new level of operational efficiency and intelligence.</p>
                           <a href="/contact-us">
                     <button className="learn_more_btn">Request A Demo</button>
                     </a>

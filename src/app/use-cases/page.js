@@ -34,7 +34,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12 use_cases_seven_col">
                 <div className="seven_use_cases_box">
                     <h1>Use Cases</h1>
-                    <p>Digital humans are transforming industries with their ability to streamline processes, engage audiences, and adapt to various roles. From workforce training to customer-facing applications, heres how Atmans digital humans can create value for your business.</p>
+                    <p>Digital humans are transforming industries with their ability to streamline processes, engage audiences, and adapt to various roles. From workforce training to customer-facing applications, heres how Atmayas digital humans can create value for your business.</p>
                 </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
@@ -142,7 +142,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="reday_to_transform_seven_box">
                     <h1>Ready to  <span>Transform</span> Your Business?</h1>
-                    <p>Atmans digital humans are not just tools—theyre strategic assets that drive growth and innovation. Whether youre training your workforce or enhancing customer experiences, these versatile AI-powered solutions adapt to your business needs.</p>
+                    <p>Atmaya digital humans are not just tools—theyre strategic assets that drive growth and innovation. Whether youre training your workforce or enhancing customer experiences, these versatile AI-powered solutions adapt to your business needs.</p>
                     <h6>Lets create your success story.</h6>
                        <a href="/contact-us">
                     <button className="learn_more_btn">Request A Demo</button>

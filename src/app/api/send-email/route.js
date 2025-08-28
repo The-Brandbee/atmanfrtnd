@@ -27,7 +27,7 @@ export async function POST(req) {
     await transporter.sendMail({
       from: email,
       to: process.env.EMAIL_SENT,
-      subject: `Message from Atman AI website Lead form`,
+      subject: `Message from Atmaya AI website Lead form`,
       text: emailContent,
     });
 

@@ -33,10 +33,10 @@ export default function Home() {
         <div className="row">
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="ai_powered_digital_atman_box">
-                  <h2>AI Powered Digital Humans <span> by Atman</span></h2>
+                  <h2>AI Powered Digital Humans <span> by Atmaya</span></h2>
                   <div className="bring_your_brand_box">
                      <h4>Bring Your Brand to Life with <br/>Digital Humans</h4>
-                     <p>Atmans AI Avatars transform how businesses connect, engage, and communicate. Designed to deliver hyper-realistic, human-like interactions, our avatars help you create unforgettable experiences from personalized training to immersive marketing.</p>
+                     <p>Atmaya AI Avatars transform how businesses connect, engage, and communicate. Designed to deliver hyper-realistic, human-like interactions, our avatars help you create unforgettable experiences from personalized training to immersive marketing.</p>
                   </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@ export default function Home() {
                   <div className="row">
                      <div className="col-lg-12 col-md-12 col-sm-12">
                         <div className="atman_video_what_we_offer_box">
-                           <h2>Why Choose Atmans <br/> <span> Digital Humans? </span></h2>
+                           <h2>Why Choose Atmaya <br/> <span> Digital Humans? </span></h2>
                         </div>
                      </div> 
                   </div>
@@ -181,7 +181,7 @@ export default function Home() {
                <div className="ai_human_exprienece_box">
                   <h2>Lets build your AI powered <br/> <span> Digital Human Experience</span></h2>
                      <div className="ready_to_elevate_box">
-                        <h6>Ready to elevate your business with Atmans Digital Humans?</h6>
+                        <h6>Ready to elevate your business with Atmaya Digital Humans?</h6>
                         <p>Get in touch today to explore endless possibilities.</p>
                      </div>
                      <a href="/contact-us">

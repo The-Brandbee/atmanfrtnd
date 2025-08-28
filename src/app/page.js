@@ -135,7 +135,7 @@ export default function Home() {
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="try_box">
                     <h4>Try Our 6 Digital Humans</h4>
-                    <p>Explore the full potential of Atmans digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations, providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
+                    <p>Explore the full potential of Atmaya digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations, providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
                         <a href="/contact-us">
                     <button className="learn_more_btn">Request A Demo</button>
                     </a>
@@ -183,7 +183,7 @@ export default function Home() {
                 <div className="why_choose_content_box">
                     <h4 className="sleep_sec">Because Efficiency <br/>Doesnt Sleep</h4>
                     
-                    <p className="sleep_paragraph">Atmans digital humans provide scalable, intelligent solutions that align with your business needs. Heres how they can optimize your operations and drive measurable results:</p>
+                    <p className="sleep_paragraph">Atmaya digital humans provide scalable, intelligent solutions that align with your business needs. Heres how they can optimize your operations and drive measurable results:</p>
                 </div>
             </div>
         </div>
@@ -193,7 +193,7 @@ export default function Home() {
                     <div className="row">
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
                             <h6 className="needs_heading2">Customizable <br/>to Your Needs</h6>
-                            <p className="need_para">Atmans digital humans can be trained to perform specific tasks, adapting to your business requirements with ease.</p>
+                            <p className="need_para">Atmaya digital humans can be trained to perform specific tasks, adapting to your business requirements with ease.</p>
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
                             <h6 className="needs_heading2">24/7  <br/>Availability</h6>    
@@ -205,7 +205,7 @@ export default function Home() {
                         </div>
                         <div className="col-lg-3 col-md-3 col-sm-6 col-6 need_col">
                             <h6 className="needs_heading2">Measurable <br/>Business Impact</h6>       
-                            <p className="need_para">Atmans digital humans help enhance productivity, reduce operational bottlenecks, and enable scalable growth, delivering results that matter.</p>
+                            <p className="need_para">Atmaya digital humans help enhance productivity, reduce operational bottlenecks, and enable scalable growth, delivering results that matter.</p>
                         </div>
                     </div>
                 </div>

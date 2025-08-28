@@ -106,7 +106,7 @@ function IndexPage() {
             </div>
             <div className="col-lg-12 col-md-12 col-sm-12">
                 <div>     
-                    <p className="copyright">Copyright@ <span className="atnam">Atman.AI</span></p>
+                    <p className="copyright">Copyright@ <span className="atnam">Atmaya.ai</span></p>
                 </div>
             </div>
         </div>

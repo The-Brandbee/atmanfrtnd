@@ -36,7 +36,7 @@ export default function Home() {
                   <h2><span>Transform</span> Text Into Stunning AI Videos</h2>
                   <div className="bring_your_brand_box">
                      
-                     <p>Atmans Text-to-Video service revolutionizes how businesses create content. With just a script, you can generate professional, AI-driven videos that captivate audiences, streamline communication, and save valuable time and resources. No cameras, no editing teams, just fast and scalable video creation at your fingertips.</p>
+                     <p>Atmaya Text-to-Video service revolutionizes how businesses create content. With just a script, you can generate professional, AI-driven videos that captivate audiences, streamline communication, and save valuable time and resources. No cameras, no editing teams, just fast and scalable video creation at your fingertips.</p>
                   </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ export default function Home() {
                         <div className="col-lg-6 col-md-6 col-sm-12">
                            <div className="atman_what_we_offer_pointer_box">
                               <h6>Effortless Video Creation</h6>
-                              <p>Turn your written text into polished videos within minutes. Simply choose a digital human, select a voice, and let Atmans AI handle the rest.</p>
+                              <p>Turn your written text into polished videos within minutes. Simply choose a digital human, select a voice, and let Atmaya AI handle the rest.</p>
                            </div>
                         </div>
                         <div className="col-lg-6 col-md-6 col-sm-12">
@@ -83,7 +83,7 @@ export default function Home() {
                         <div className="col-lg-6 col-md-6 col-sm-12">
                            <div className="atman_what_we_offer_pointer_box">
                               <h6>Full Brand Customization</h6>
-                              <p>Align every video with your brand by customizing avatars, backgrounds, voice tones, and visual styles. Whether you want formal, playful, or friendly, Atman makes it happen.</p>
+                              <p>Align every video with your brand by customizing avatars, backgrounds, voice tones, and visual styles. Whether you want formal, playful, or friendly, Atmaya makes it happen.</p>
                            </div>
                         </div>
                     
@@ -109,7 +109,7 @@ export default function Home() {
                   <div className="row">
                      <div className="col-lg-12 col-md-12 col-sm-12">
                         <div className="atman_video_what_we_offer_box">
-                           <h2>Why Choose Atmans <span>Text-to-Video</span> Solution</h2>
+                           <h2>Why Choose Atmaya <span>Text-to-Video</span> Solution</h2>
                         </div>
                      </div> 
                   </div>
@@ -117,7 +117,7 @@ export default function Home() {
                         <div className="col-lg-5 col-md-5 col-sm-12">
                            <div className="atman_what_we_offer_pointer_box atman_what_we_offer_2">
                               <h6>Save Time and Cut Costs</h6>
-                              <p>Eliminate the need for expensive studios, production crews, and endless edits. Atman delivers high-quality videos quickly and affordably.</p>
+                              <p>Eliminate the need for expensive studios, production crews, and endless edits. Atmaya delivers high-quality videos quickly and affordably.</p>
                            </div>
                         </div>
                         <div className="col-lg-5 col-md-5 col-sm-12">
@@ -176,8 +176,8 @@ export default function Home() {
                <div className="ai_human_exprienece_box">
                   <h2>Ready to Bring Your <span>Words to Life?</span></h2>
                      <div className="ready_to_elevate_box">
-                        <h6>Create stunning AI videos at scale with Atman.</h6>
-                        <p>Atmans digital humans are not just tools—they are strategic assets that drive growth and innovation. Whether you’re training your workforce or enhancing customer experiences, these versatile AI-powered solutions adapt to your business needs.</p>
+                        <h6>Create stunning AI videos at scale with Atmaya.</h6>
+                        <p>Atmaya digital humans are not just tools—they are strategic assets that drive growth and innovation. Whether you’re training your workforce or enhancing customer experiences, these versatile AI-powered solutions adapt to your business needs.</p>
                      </div>
                      <a href="/contact-us">
                   <button className="request_btn" >Contact Us</button>   

@@ -33,7 +33,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="flexiblr_plan_box">
                     <h1><span>Flexible Plans </span>for Every Business</h1>
-                    <p>At Atman, we understand that every business has unique needs and goals. Thats why we offer a subscription-based pricing model designed to provide you with maximum value and flexibility. Whether youre just starting or scaling up, our plans ensure you only pay for what you need, when you need it.</p>
+                    <p>At Atmaya, we understand that every business has unique needs and goals. Thats why we offer a subscription-based pricing model designed to provide you with maximum value and flexibility. Whether youre just starting or scaling up, our plans ensure you only pay for what you need, when you need it.</p>
                 </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">
@@ -80,7 +80,7 @@ export default function Home() {
                    
                     <Image src={hours} alt=""    />
                     <h6>24/7 Access</h6>
-                    <p>Uninterrupted availability of Atmans digital humans to support your business around the clock.</p>
+                    <p>Uninterrupted availability of Atmaya digital humans to support your business around the clock.</p>
                 </div>
             </div>
         </div>
@@ -112,7 +112,7 @@ export default function Home() {
             <div className="col-lg-4 col-md-4 col-sm-12">
                 <div className="atman_six_monthly_biling_box">
                     <h6>Request a Demo</h6>
-                    <p>Not sure which plan suits you best? Request a demo and see how Atman can revolutionize your business processes.</p>
+                    <p>Not sure which plan suits you best? Request a demo and see how Atmaya can revolutionize your business processes.</p>
                 </div>
             </div>
             </div>

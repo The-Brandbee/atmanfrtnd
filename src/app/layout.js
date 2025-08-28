@@ -6,9 +6,9 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title:
-    "Atman", 
+    "Atmaya", 
   description:
-    "Atman", 
+    "Atmaya", 
 
   alternates: {
     canonical: "",

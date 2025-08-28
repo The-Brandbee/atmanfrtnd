@@ -34,7 +34,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12">
                 <div className="eight_join_the_future_box">
                     <h1>Join the Future of <br/> <span>AI-Driven</span> Business</h1>
-                    <p>Looking to be part of a team thats shaping the future of business? Atman offers an exciting work environment where innovation meets practicality. Work alongside AI experts and digital architects to create solutions that impact the global business landscape. If youre passionate about technology, human-centered design, and redefining the way businesses operate, Atman is the place for you.</p>
+                    <p>Looking to be part of a team thats shaping the future of business? Atmaya offers an exciting work environment where innovation meets practicality. Work alongside AI experts and digital architects to create solutions that impact the global business landscape. If youre passionate about technology, human-centered design, and redefining the way businesses operate, Atmaya is the place for you.</p>
                 </div>
             </div>
         </div>
@@ -48,11 +48,11 @@ export default function Home() {
                 <div className="atman_eight_carrer_box">
                     <div className="atman_caarr">
                         <h6>Your Career, Accelerated</h6>
-                        <p>Atman isnt just offering a job; its offering an opportunity to be part of something big. With a focus on growth, both professionally and personally, Atman supports employees to learn, innovate, and lead the way in AI development. As a part of the team, youll have the chance to shape the future of digital human technology.</p>    
+                        <p>Atmaya isnt just offering a job; its offering an opportunity to be part of something big. With a focus on growth, both professionally and personally, Atmaya supports employees to learn, innovate, and lead the way in AI development. As a part of the team, youll have the chance to shape the future of digital human technology.</p>    
                     </div>
                     <div className="atman_caarr">
                         <h6>Work That Matters</h6>
-                        <p>At Atman, your contributions will be vital. Youll be helping create AI-driven solutions that truly make a difference. From designing virtual trainers to building intelligent marketing avatars, your work will be at the forefront of the AI revolution in business.</p>    
+                        <p>At Atmaya, your contributions will be vital. Youll be helping create AI-driven solutions that truly make a difference. From designing virtual trainers to building intelligent marketing avatars, your work will be at the forefront of the AI revolution in business.</p>    
                     </div>
                 </div>
             </div>
