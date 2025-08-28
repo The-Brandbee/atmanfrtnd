@@ -34,7 +34,7 @@ export default function Home() {
             <div className="col-lg-6 col-md-6 col-sm-12 use_cases_seven_col">
                 <div className="seven_use_cases_box">
                     <h1>Use Cases</h1>
-                    <p>Digital humans are transforming industries with their ability to streamline processes, engage audiences, and adapt to various roles. From workforce training to customer-facing applications, heres how Atmayas digital humans can create value for your business.</p>
+                    <p>Digital humans are transforming industries with their ability to streamline processes, engage audiences, and adapt to various roles. From workforce training to customer-facing applications, heres how Atmaya digital humans can create value for your business.</p>
                 </div>
             </div>
             <div className="col-lg-6 col-md-6 col-sm-12">

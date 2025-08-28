@@ -132,7 +132,7 @@ export default function Home() {
         </div>
         <div className="Try-Our-Digital-Humans-main-section"> 
         <div className="row">
-            <div className="col-lg-4 col-md-4 col-sm-12">
+            <div className="col-lg-4 col-md-4 col-sm-12"> 
                 <div className="try_box">
                     <h4>Try Our 6 Digital Humans</h4>
                     <p>Explore the full potential of Atmaya digital humans through a hands-on demo. These AI-powered avatars integrate seamlessly into your operations, providing 24/7 support and optimizing workflows. See how they can drive efficiency and deliver consistent results across your business. Schedule a demo today.</p>
