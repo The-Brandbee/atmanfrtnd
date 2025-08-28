@@ -57,7 +57,8 @@ export default function Home() {
                     <p>Deeptanshu Bansal, the visionary driving force behind Atmaya brings over 15 years of expertise spanning brand management, marketing analytics, business consulting, and investment banking. With an MBA in Marketing and Finance from the Simon School of Business at the University of Rochester, Deeptanshu combines strategic insight with innovation, driving Atmaya mission to redefine the future of business operations through AI-Powered solutions. His leadership ensures Atmaya continues to deliver transformative results for businesses worldwide.</p>
                 </div>
             </div>
-            <div className="col-lg-6 col-md-6 col-sm-12">
+           <div classname="col-lg-6 col-md-6 col-sm-12" style={{ display: "none" }}>
+
                 <div className="atman_founder_box">
                   
                     <Image src={MaskGroupN} alt=""    />
