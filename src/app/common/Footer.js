@@ -2,11 +2,13 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import Script from "next/script";
-import Logo from "../img/Layer_1.svg";
+import Logo from "../img/Atmaya-ai.png";
 import instagram from "../img/instagram_1400829.svg";
 import facebook from "../img/facebook_733603.svg";
 import Layer from "../img/Group60.svg"; 
 import NewsletterForm from '../common/NewsletterForm.js';
+
+
 
 function IndexPage() {
   return (
